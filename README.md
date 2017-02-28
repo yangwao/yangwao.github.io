@@ -40,11 +40,11 @@
 2016 White Night Bratislava // Hue Punk Booth w/ Adam and Progressbar members
 2017 awesome-offline
 2017 human-crypt
-2040 my mind was uploaded to the Grid
+2040 my mind deployed to the Grid
 2140 left 🌎
 
 ### Gained knowledge so far
-AWS EC2, Cloudfront, S3, Lambda
+AWS - EC2, Cloudfront, S3, Lambda
 GCP - Compute
 Javascript - Node.js, Express.js, Vue.js, ES5, ES6
 Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers
@@ -57,7 +57,7 @@ Kernel experience w/ Grsecurity & PaX patches
 MongoDb - aggregation, 2nd neighbors selections
 System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)
 Hardware tinkering - Arduino, 3D printing
-Community Manager - learned do's & don'ts and teach ethics of community
+Community Manager & Speaker - learned do's & don'ts and teach ethics of community
 
 ### As FullStack Developer I learned
 Beign able to design, build, deploy, scale.
@@ -83,11 +83,16 @@ https://twitter.com/yangwao
 https://github.com/yangwao
 https://www.facebook.com/matej.wao.nemcek
 https://sk.linkedin.com/in/mnemcek
+https://www.instagram.com/yangwao/
 Signal/Threema/IRC+OTR available
 My miniLock ID: 2A8Y2hLRMYgMWxJ9rqFeMsTMn8ppCUzA4TQCumvG9CuQr8 (learn at minilock.io)
 ⫸  emojilock
 ⚽️🐋👉🔋🔮💰👆⭐️✂️📌🐗🚡🎮⌛️😭🍇🐚🚧🍫😎🚥💉🎨🔉👰➡️👫🌽🔨📼🏀👽
-My PGP identity was forgotten
+My PGP identity is no longer used.
+
+### Why I made this
+Because I tend to forget about past and everytime if anyone ask me 'What do you do?' || 'Who are you?' I tend answer, well, I'm looking around.
+Otherwise, I'm no-one as every other human on this planet.
 
 ### end credits
 inspired by
@@ -95,5 +100,6 @@ inspired by
 * @uhhyeahbret (https://bret.io
 
 #### random aww
+I like meditations & Zen Buddhism
+One day I will live off-grid
 I'm bdsm-positive & ssc-first
-
