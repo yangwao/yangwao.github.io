@@ -60,6 +60,9 @@ System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)
 Hardware tinkering - Arduino, 3D printing
 Community Manager & Speaker - learned do's & don'ts and teach ethics of community
 
+### Projects
+[zilchpass](https://www.npmjs.com/package/zilchpass)
+
 ### As (FullStack) Developer I learned
 Beign able to design, build, deploy, scale.
 
@@ -101,6 +104,7 @@ inspired by
 * @bcrypt (https://diracdeltas.github.io/blog/about/)
 * @uhhyeahbret (https://bret.io)
 * @daviddias (https://daviddias.me/about/)
+* @uhhyeahbret (https://www.bret.io/)
 
 #### random aww
 I like meditations & Zen Buddhism
