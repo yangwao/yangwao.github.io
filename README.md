@@ -105,6 +105,7 @@ inspired by
 * @uhhyeahbret (https://bret.io)
 * @daviddias (https://daviddias.me/about/)
 * @uhhyeahbret (https://www.bret.io/)
+* @noffle (http://blog.eight45.net/2017/01/11/eight-years.html)
 
 #### random aww
 I like meditations & Zen Buddhism
