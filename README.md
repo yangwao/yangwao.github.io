@@ -15,6 +15,7 @@
 2012 Progressbar headmaster
 2012 Geefu @ founder
 2013 Radio TLIS speaker
+2013 Bitcoin not bombs t-shirts <3
 2013 🏄 surfer
 2013 Bitcoin meetups organizer in Bratislava
 2013 Fablava meetups & group for local makers hive
