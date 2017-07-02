@@ -130,7 +130,7 @@ import Avatar from '~components/avatar.vue'
 export default {
   head: {
     title: '👋 hypersignal.xyz 🚀🤘'
-  	},
+  },
   components: {
     VueMarkdown,
     Avatar
