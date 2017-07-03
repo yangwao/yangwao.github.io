@@ -1,12 +1,13 @@
 <template>
   <section class="container">
     <div>
+      <CanvasDots/>
       <Avatar/>
       <h1 class="title">
         Matej Nemček
       </h1>
       <h2 class="subtitle">
-        Quick dump of my 🕓  💖
+        ⚡️ dump of my 💖 🕓
       </h2>
       <div class="links">
         <vue-markdown>## Reach 👋 & follow me 🖖🏽 </vue-markdown>
@@ -28,14 +29,14 @@
       *[GCP]: Google Cloud Platform</vue-markdown>
       <vue-markdown>* Javascript - Node.js, Express.js, Vue.js, ES5, ES6, FlowType, StandardJS</vue-markdown>
       <vue-markdown>* Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</vue-markdown>
-      <vue-markdown>* Cryptocurrencies - Bitcoin, Ethereum</vue-markdown>
+      <vue-markdown>* Cryptocurrencies - ⛓💰 Bitcoin, Ethereum</vue-markdown>
       <vue-markdown>* CouchDB</vue-markdown>
       <vue-markdown>* Couchbase - Views, N1QL</vue-markdown>
       <vue-markdown>* Redis - basic stuff</vue-markdown>
       <vue-markdown>* Ethical Hacker</vue-markdown>
-      <vue-markdown>* Docker</vue-markdown>
+      <vue-markdown>* 🐳 Docker</vue-markdown>
       <vue-markdown>* Kernel experience w/ Grsecurity & PaX patches</vue-markdown>
-      <vue-markdown>* MongoDb - aggregation, 2nd neighbors selections</vue-markdown>
+      <vue-markdown>* 🍃 MongoDb - aggregation, 2nd neighbors selections</vue-markdown>
       <vue-markdown>* System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)</vue-markdown>
       <vue-markdown>* Hardware tinkering - Arduino, 3D printing</vue-markdown>
       <vue-markdown>* Community Manager & Speaker - learned do's & don'ts and teach ethics of community</vue-markdown>
@@ -49,7 +50,7 @@
       <vue-markdown>### As (FullStack) Developer I learned</vue-markdown>
       <vue-markdown>Beign able to design, build, deploy, scale.</vue-markdown>
       <vue-markdown>### Want to learn 🔭</vue-markdown>
-      <vue-markdown>ES7
+      <vue-markdown>ES2017
       GraphQL
       Serverless frameworks ( i.e. https://stdlib.com/ )
       NLP, Tensorflow
@@ -70,13 +71,13 @@
       2008 sticker collector
       2008 yay@me % mv highSchool 🏫 university 🎓
       2010 NEXT: festival of advanced music (AV helper) <3
-      2010 Progressbar hackerspace founder
-      2011 Head of Club-Mate supply chain at Progressbar
-      2011 msg.bar
+      2010 🛠 Progressbar hackerspace founder
+      2011 Head of 🍹 Club-Mate supply chain at Progressbar
+      2011 🖥 msg.bar
       2012 held first Cryptoparty at Progressbar
       2012 Progressbar headmaster
       2012 Geefu @ founder
-      2013 Radio TLIS speaker
+      2013 Radio TLIS 🎙 speaker
       2013 Bitcoin not bombs t-shirts <3
       2013 🏄 surfer
       2013 Bitcoin meetups organizer in Bratislava
@@ -87,7 +88,7 @@
       2014 organizer International Girls in ICT
       2014 speaker at Security Session Brno
       2014 Bitcoin markets in Bratislava
-      2014 Aktiv.io CRM founder
+      2014 Aktiv.io CRM founder 📅 📇
       2014 amateur (>🏄 kitesurfer
       2014 Grandfather of Fablab Bratislava
       2014 speaker at European Researchers' Night
@@ -99,11 +100,11 @@
       2016 became chip-transhumanist w/ 888 bytes of storage under skin
       2016 Nootropics sessions in Progressbar
       2011-201x bunch of other events in Progressbar hackerspace
-      2016 go(game)/baduk player
+      2016 ⚫️⚪️ go(game)/baduk player
       2016 White Night Bratislava // Muhnee fluhks co-op w/ demoscene artist Zden
       2016 White Night Bratislava // Hue Punk Booth w/ Adam and Progressbar members
       2017 awesome-offline
-      2017 human-crypt
+      2017 human-crypt 🔐
       2040 my mind was deployed to the Grid
       2140 left 🌎</vue-markdown>
       <vue-markdown>### end credits</vue-markdown>
@@ -126,6 +127,7 @@
 <script>
 import VueMarkdown from 'vue-markdown'
 import Avatar from '~components/avatar.vue'
+import CanvasDots from '~components/CanvasDots.vue'
 
 export default {
   head: {
@@ -133,7 +135,8 @@ export default {
   },
   components: {
     VueMarkdown,
-    Avatar
+    Avatar,
+    CanvasDots
   }
 }
 </script>
@@ -141,7 +144,7 @@ export default {
 <style>
 .container
 {
-  min-height: 100vh;
+  /*min-height: 100vh;*/
   display: flex;
   justify-content: left;
   align-items: left;
