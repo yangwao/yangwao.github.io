@@ -10,7 +10,7 @@
         ⚡️ dump of my 💖 🕓
       </h2>
       <div class="links">
-        <vue-markdown>## Reach 👋 & follow me 🖖🏽 </vue-markdown>
+        <vue-markdown>## Reach 👋 & follow me 🖖 </vue-markdown>
         <a href="https://github.com/yangwao" target="_blank" class="button--grey">GitHub</a>
         <a href="https://twitter.com/yangwao" target="_blank" class="button--grey">Twitter</a>
         <a href="https://sk.linkedin.com/in/mnemcek" target="_blank" class="button--grey">Linkedin</a>
@@ -28,8 +28,8 @@
       <vue-markdown>* GCP - Compute
       *[GCP]: Google Cloud Platform</vue-markdown>
       <vue-markdown>* Javascript - Node.js, Express.js, Vue.js, ES5, ES6, FlowType, StandardJS</vue-markdown>
-      <vue-markdown>* Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</vue-markdown>
-      <vue-markdown>* Cryptocurrencies - ⛓💰 Bitcoin, Ethereum</vue-markdown>
+      <vue-markdown>* 🔐 Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</vue-markdown>
+      <vue-markdown>* ⛓💰 Cryptocurrencies -  Bitcoin, Ethereum</vue-markdown>
       <vue-markdown>* CouchDB</vue-markdown>
       <vue-markdown>* Couchbase - Views, N1QL</vue-markdown>
       <vue-markdown>* Redis - basic stuff</vue-markdown>
@@ -128,15 +128,20 @@
 import VueMarkdown from 'vue-markdown'
 import Avatar from '~components/avatar.vue'
 import CanvasDots from '~components/CanvasDots.vue'
+import TwitterHeadCard from '~components/twitter-head-card.vue'
 
 export default {
   head: {
-    title: '👋 hypersignal.xyz 🚀🤘'
+    title: '👋 About Matej Nemček 🚀🤘',
+    meta: [
+      { hid: 'About Matej Nemcek', name: 'About Matej Nemcek experience', content: 'About Matej Nemcek' }
+    ]
   },
   components: {
     VueMarkdown,
     Avatar,
-    CanvasDots
+    CanvasDots,
+    TwitterHeadCard
   }
 }
 </script>
