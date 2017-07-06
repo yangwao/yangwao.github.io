@@ -119,7 +119,7 @@
       <vue-markdown>* I like 🙏 meditations & Zen 🕉️ ☸️Buddhism</vue-markdown>
       <vue-markdown>* One day I will live off-the-grid</vue-markdown>
       <vue-markdown>* I'm ssc-first</vue-markdown>
-
+      <vue-markdown>[hypersignal](https://en.wiktionary.org/wiki/hypersignal)</vue-makrdown>
     </div>
   </section>
 </template>
