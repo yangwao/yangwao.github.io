@@ -4,9 +4,9 @@
 </template>
 
 <style>
-body {
+/*body {
   width: 100%;
-}
+}*/
 
 canvas {
   position: fixed;

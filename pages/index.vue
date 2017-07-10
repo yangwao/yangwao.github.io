@@ -63,7 +63,8 @@
       <dl>
         <li>AWS - EC2, Cloudfront, S3, Lambda</li>
         <li>GCP - Compute</li>
-        <li>Javascript - Node.js Express.js, Vue.js ES2015 (ES6), FlowType, StandardJS</li>
+        <li>Backend - Node.js, Express.js, ES2015 (ES6), FlowType, StandardJS</li>
+        <li>Frontend - Vue.js, Bulma, Bootstrap, jQuery</li>
         <li>🔐 Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</li>
         <li>⛓💰 Cryptocurrencies -  Bitcoin, Litecoin, Ethereum, 🤝💻 Smart Contracts</li>
         <li>CouchDB</li>
