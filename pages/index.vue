@@ -13,9 +13,9 @@
     </div>
   </div>
   <div class="columns">
-    <div class="column">
+    <div class="column  is-offset-3">
       <div class="columns is-mobile">
-        <div class="column is-offset-1">
+        <div class="column">
           <a class="button is-info is-outlined is-large" href="https://github.com/yangwao">Github</a>
         </div>
         <div class="column">
