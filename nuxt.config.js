@@ -3,16 +3,19 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'About Matej Nemcek',
+    // title: 'About Matej Nemcek',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'About Matej Nemcek', name: 'About Matej Nemcek', content: 'About Matej Nemcek' }
+      { hid: 'About Matej Nemček', name: 'About Matej Nemček', content: 'About Matej Nemček' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  // css: [
+  //   '~bulma/css/bulma.css'
+  // ],
   /*
   ** Customize the progress-bar color
   */

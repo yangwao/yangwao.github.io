@@ -5,6 +5,7 @@
   "author": "Matej Nemcek <ybdaba@gmail.com>",
   "private": true,
   "dependencies": {
+    "bulma": "^0.4.3",
     "nuxt": "latest",
     "vue-markdown": "^2.1.3"
   },
