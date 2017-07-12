@@ -1,19 +1,19 @@
 <template>
 <section class="container">
 <CanvasDots/>
-  <div class="columns is-mobile">
-    <div class="column is-half is-offset-one-quarter">
-      <h1 class="title is-1">Matej Nemček</h1>
+  <div class="columns">
+    <div class="column is-half is-offset-2">
+      <h1 class="title is-1">👨‍💻 Matej Nemček</h1>
       <h3 class="subtitle is-3">⚡️ dump of my 💖 🕓</h3>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-half is-offset-one-quarter">
+    <div class="column is-half is-offset-2">
       <h2 class="title is-2">Reach 👋 & follow me 🖖</h2>
     </div>
   </div>
   <div class="columns">
-    <div class="column  is-offset-3">
+    <div class="column is-offset-2">
       <div class="columns is-mobile">
         <div class="column">
           <a class="button is-info is-outlined is-large" href="https://github.com/yangwao">Github</a>
@@ -35,12 +35,12 @@
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-one-quarter is-half">
+    <div class="column is-offset-2 is-half">
       <h2 class="title is-2">My decent 🔐 communication channels</h2>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-one-quarter is-half">
+    <div class="column is-offset-2 is-half">
       <p>
         My Scuttlebutt true name is <strong>@NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519</strong>
       </p>
@@ -54,12 +54,12 @@
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3 is-half">
+    <div class="column is-offset-2 is-half">
       <h2 class="title is-2">Gained knowledge so far</h2>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3 is-8">
+    <div class="column is-offset-2 is-8">
       <dl>
         <li>AWS - EC2, Cloudfront, S3, Lambda</li>
         <li>GCP - Compute</li>
@@ -76,29 +76,30 @@
         <li>🍃 MongoDb - aggregation, 2nd neighbors selections</li>
         <li>System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)</li>
         <li>Hardware tinkering - Arduino, 3D printing</li>
+        <li>Atom Editor - power shortcuts, own snippets and practical usage</li>
         <li>Community Manager & Speaker - learned do's & don'ts and teach ethics of community</li>
       </dl>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h2 class="title is-2">As (FullStack) Developer I learned</h2>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <p>
         Beign able to design, code, build, deploy and scale.
       </p>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h3 class="title is-3">(public) projects</h3>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <dl>
         <li><a href="https://github.com/yangwao?tab=repositories)">my github repositories</a></li>
         <li><a href="https://www.npmjs.com/package/zilchpass">zilchpass</a></li>
@@ -107,12 +108,12 @@
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h2 class="title is-2">Want to keep learning 🔭 new things</h2>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3 is-8">
+    <div class="column is-offset-2 is-8">
       <dl>
         <li>ES2017 (ES8), ES2018, ES2019,...</li>
         <li>GraphQL</li>
@@ -126,12 +127,12 @@
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h2 class="title is-2">Why I made this</h2>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3 is-8">
+    <div class="column is-offset-2 is-8">
       <p>
         Because I tend to forget about past and everytime if anyone ask me 'What do you do?' || 'Who are you?' I tend answer, well, I'm looking around. Otherwise, I'm no-one as every other human on this planet and I'm part of cooperative consciousness.
       </p>
@@ -139,12 +140,12 @@
   </div>
 
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h3 class="title is-3">Captain.log</h3>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3 is-8">
+    <div class="column is-offset-2 is-8">
       <ul>
         <li>2003 gentoo rookie</li>
         <li>2003 first hacked WEP <3</li>
@@ -166,58 +167,57 @@
         <li>2013 🏄 surfer</li>
         <li>2013 Bitcoin meetups organizer in Bratislava</li>
         <li>2013 Fablava meetups & group for local makers hive</li>
-        <li>2013 TedX Kosice speaker about 3D printing</li>
+        <li>2013 TedX Kosice 🔊 speaker about 3D printing</li>
         <li>2013 coinunity.sk (bitcoin slovak forum w/ over 500 users)</li>
         <li>2013 bitcoiner.sk (bitcoin mag about bitcoin in Slovak language)</li>
         <li>2014 organizer International Girls in ICT</li>
-        <li>2014 speaker at Security Session Brno</li>
+        <li>2014 🔊 speaker at Security Session Brno</li>
         <li>2014 Bitcoin markets in Bratislava</li>
         <li>2014 Aktiv.io CRM founder 📅 📇</li>
         <li>2014 amateur (>🏄 kitesurfer</li>
         <li>2014 Grandfather of Fablab Bratislava</li>
-        <li>2014 speaker at European Researchers' Night</li>
+        <li>2014 🔊 speaker at European Researchers' Night</li>
         <li>2015 Software Engineer/Full Stack Developer @ SaferPass</li>
         <li>2015 Soylent tasting sessions</li>
         <li>2015 began learning Chinese (Mandarin) 早上好</li>
         <li>2015 👨‍🏫  NodeSchool Bratislava</li>
         <li>2016 Oracle @ HackerDome (paused due missing-resources)</li>
         <li>2016 became chip-transhumanist w/ 888 bytes of storage under skin</li>
-        <li>2016 Nootropics sessions in Progressbar</li>
+        <li>2016 💊 Nootropics sessions in Progressbar</li>
         <li>2011-201x bunch of other events in Progressbar hackerspace</li>
         <li>2016 ⚫️⚪️ go(game)/baduk player</li>
         <li>2016 White Night Bratislava // Muhnee fluhks co-op w/ demoscene artist Zden</li>
         <li>2016 White Night Bratislava // Hue Punk Booth w/ Adam and Progressbar members</li>
-        <li>2017 awesome-offline</li>
+        <li>2017 🤘 awesome-offline</li>
         <li>2017 human-crypt 🔐</li>
         <li>2040 my mind was deployed to the Grid</li>
-        <li>2140 left 🌎</li>
+        <li>2140 left planet 🌎</li>
       </ul>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h3 class="title is-3">end credits - inspired by</h3>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3 is-8">
+    <div class="column is-offset-2 is-8">
       <dl>
-        <li>@bcrypt (https://diracdeltas.github.io/blog/about/)</li>
-        <li>@uhhyeahbret (https://bret.io)</li>
-        <li>@daviddias (https://daviddias.me/about/)</li>
-        <li>@uhhyeahbret (https://www.bret.io/)</li>
-        <li>@noffle (http://blog.eight45.net/2017/01/11/eight-years.html)</li>
-        <li>hypersignal (https://en.wiktionary.org/wiki/hypersignal)</li>
+        <li>@bcrypt (<a href="https://diracdeltas.github.io/blog/about/">https://diracdeltas.github.io/blog/about/</a>)</li>
+        <li>@uhhyeahbret (<a href="https://bret.io">https://bret.io</a>)</li>
+        <li>@daviddias (<a href="https://daviddias.me/about/">https://daviddias.me/about/</a>)</li>
+        <li>@noffle (<a href="http://blog.eight45.net/2017/01/11/eight-years.html">http://blog.eight45.net/2017/01/11/eight-years.html</a>)</li>
+        <li>hypersignal (<a href="https://en.wiktionary.org/wiki/hypersignal">https://en.wiktionary.org/wiki/hypersignal</a>)</li>
       </dl>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <h4 class="title is-4">random awww</h4>
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-3">
+    <div class="column is-offset-2">
       <dl>
         <li>I like 🙏 meditations & Zen 🕉️ ☸️Buddhism</li>
         <li>One day I will live off-the-grid</li>
