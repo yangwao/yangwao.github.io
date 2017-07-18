@@ -69,11 +69,12 @@
         <li>⛓💰 Cryptocurrencies -  Bitcoin, Litecoin, Ethereum, 🤝💻 Smart Contracts</li>
         <li>CouchDB</li>
         <li>Couchbase - Views, N1QL</li>
+        <li>🍃 MongoDb - aggregation, 2nd neighbors selections</li>
         <li>Redis - basic stuff</li>
         <li>Ethical Hacker</li>
         <li>🐳 Docker & docker-compose</li>
         <li>Kernel experience w/ Grsecurity & PaX patches</li>
-        <li>🍃 MongoDb - aggregation, 2nd neighbors selections</li>
+        <li>Desktop apps in Electron with auto-update & code-signing (electron-vue too)</li>
         <li>System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)</li>
         <li>Hardware tinkering - Arduino, 3D printing</li>
         <li>Atom Editor - power shortcuts, own snippets and practical usage</li>
@@ -102,6 +103,7 @@
     <div class="column is-offset-2">
       <dl>
         <li><a href="https://github.com/yangwao?tab=repositories)">my github repositories</a></li>
+        <li><a href="https://github.com/yangwao/skCube_data_collector">skCube server collector + client</a></li>
         <li><a href="https://www.npmjs.com/package/zilchpass">zilchpass</a></li>
         <li><a href="http://crypto2020.hypersignal.xyz">Crypto2020</a></li>
       </dl>
