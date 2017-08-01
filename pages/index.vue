@@ -1,6 +1,6 @@
 <template>
 <section class="container">
-<CanvasDots/>
+<div class='awesomeBG'>
   <div class="columns">
     <div class="column is-half is-offset-2">
       <h1 class="title is-1">👨‍💻 Matej Nemček</h1>
@@ -45,10 +45,12 @@
         My Scuttlebutt true name is <strong>@NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519</strong>
       </p>
       <p>
-        My miniLock ID is <strong>2A8Y2hLRMYgMWxJ9rqFeMsTMn8ppCUzA4TQCumvG9CuQr8</strong> (learn at minilock.io)
+        My miniLock ID is <strong>2A8Y2hLRMYgMWxJ9rqFeMsTMn8ppCUzA4TQCumvG9CuQr8</strong> (learn more at <a href="http://minilock.io">minilock.io</a> )
       </p>
       <p>
         ⫸  emojilock
+      </p>
+      <p>
         ⚽️🐋👉🔋🔮💰👆⭐️✂️📌🐗🚡🎮⌛️😭🍇🐚🚧🍫😎🚥💉🎨🔉👰➡️👫🌽🔨📼🏀👽
       </p>
     </div>
@@ -103,9 +105,9 @@
     <div class="column is-offset-2">
       <dl>
         <li><a href="https://github.com/yangwao?tab=repositories)">my github repositories</a></li>
-        <li><a href="https://github.com/yangwao/skCube_data_collector">skCube server collector + client</a></li>
+        <li><a href="https://github.com/yangwao/skCube_data_collector">skCube (cubesat) server collector + electron client</a></li>
         <li><a href="https://www.npmjs.com/package/zilchpass">zilchpass</a></li>
-        <li><a href="http://crypto2020.hypersignal.xyz">Crypto2020</a></li>
+        <li><a href="http://crypto2020.hypersignal.xyz">crypto2020</a></li>
       </dl>
     </div>
   </div>
@@ -226,12 +228,13 @@
       </dl>
     </div>
   </div>
+</div>
 </section>
 </template>
 
 <script>
 // import Avatar from '~components/avatar.vue'
-import CanvasDots from '~components/CanvasDots.vue'
+// import CanvasDots from '~components/CanvasDots.vue'
 import TwitterHeadCard from '~components/twitter-head-card.vue'
 
 export default {
@@ -243,12 +246,46 @@ export default {
   },
   components: {
     // Avatar,
-    TwitterHeadCard,
-    CanvasDots
+    // CanvasDots
+    TwitterHeadCard
   }
 }
 </script>
 
 <style>
 @import '~bulma/css/bulma.css';
+
+body {
+  background: black
+}
+
+a {
+  color: black
+}
+.awesomeBG {
+  background: linear-gradient(to left, #77d4e8, #f3c95e, #00d0ff, #77e8a4);
+  background-size: 800% 200%;
+  animation: AwesomeBG 90s ease infinite;
+  overflow: hidden;
+}
+
+@keyframes AwesomeBG {
+  0% { background-position:0 0 }
+  5% { background-position:8% 0 }
+  13% { background-position:15% 0 }
+  19% { background-position:23% 0 }
+  25% { background-position:30% 0 }
+  31% { background-position:38% 0 }
+  38% { background-position:45% 0 }
+  44% { background-position:53% 0 }
+  50% { background-position:60% 0 }
+  56% { background-position:68% 0 }
+  63% { background-position:75% 0 }
+  69% { background-position:83% 0 }
+  75% { background-position:90% 0 }
+  81% { background-position:98% 0 }
+  88% { background-position:105% 0 }
+  94% { background-position:113% 0 }
+  100% { background-position:120% 0 }
+}
 </style>
