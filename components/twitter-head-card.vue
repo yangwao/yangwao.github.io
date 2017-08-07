@@ -3,10 +3,9 @@
 </template>
 
 <script>
-// Test on: https://cards-dev.twitter.com/validator
 export default {
   data: () => ({
-    href: 'https://twitter.com/intent/tweet?url=' + encodeURIComponent('https://head-elements.now.sh/about')
+    href: ''
   }),
   head: {
     meta: [
