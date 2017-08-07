@@ -188,14 +188,14 @@
         <li>2016 Oracle @ HackerDome (paused due missing-resources)</li>
         <li>2016 became chip-transhumanist w/ 888 bytes of storage under skin</li>
         <li>2016 💊 Nootropics sessions in Progressbar</li>
-        <li>2011-201x bunch of other events in Progressbar hackerspace</li>
+        <li>2011-201x 💪 bunch of other events in Progressbar hackerspace</li>
         <li>2016 ⚫️⚪️ go(game)/baduk player</li>
         <li>2016 White Night Bratislava // Muhnee fluhks co-op w/ demoscene artist Zden</li>
         <li>2016 White Night Bratislava // Hue Punk Booth w/ Adam and Progressbar members</li>
         <li>2017 🤘 awesome-offline</li>
-        <li>2017 human-crypt 🔐</li>
+        <li>2017 🔐 human-crypt </li>
         <li>2040 my mind was deployed to the Grid</li>
-        <li>2140 left planet 🌎</li>
+        <li>2140 left 🌎 planet </li>
       </ul>
     </div>
   </div>
