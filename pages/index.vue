@@ -122,7 +122,7 @@
         <li>ES2017 (ES8), ES2018, ES2019,...</li>
         <li>GraphQL</li>
         <li>Serverless frameworks ( i.e. https://stdlib.com/ )</li>
-        <li>NLP, Tensorflow</li>
+        <li>NLP, Tensorflow, Magenta</li>
         <li>More distributed technologies & protolcs (ScuttleButt, KappaArch, Hyperlog, IPFS,...)</li>
         <li>MerkleDag approach, Hyperlog</li>
         <li>GoLang</li>
