@@ -234,9 +234,7 @@
 </template>
 
 <script>
-// import Avatar from '~components/avatar.vue'
-// import CanvasDots from '~components/CanvasDots.vue'
-import TwitterHeadCard from '~components/twitter-head-card.vue'
+import TwitterHeadCard from '~/components/twitter-head-card.vue'
 
 export default {
   head: {
@@ -246,8 +244,6 @@ export default {
     ]
   },
   components: {
-    // Avatar,
-    // CanvasDots
     TwitterHeadCard
   }
 }
@@ -264,9 +260,9 @@ a {
   color: black
 }
 .starlight {
-  background: linear-gradient(to left, #C0DEBC, #97BEAB, #B5D5D1, #C8EBE4, #F7EDCC);
+  background: linear-gradient(to right, #A1E2E8, #4BEABE, #D0E279, #FAD543, #EFB149, #A1E2E8);
   background-size: 800% 100%;
-  animation: starlight 120s ease infinite;
+  animation: starlight 90s ease infinite;
   overflow: hidden;
 }
 

@@ -1,13 +1,9 @@
 {
   "name": "hypersignal",
   "version": "1.0.0",
-  "description": "just personal folio",
+  "description": "personal folio",
   "author": "Matej Nemcek <ybdaba@gmail.com>",
   "private": true,
-  "dependencies": {
-    "bulma": "^0.4.3",
-    "nuxt": "latest"
-  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -17,14 +13,19 @@
     "deploy": "push-dir --dir=dist --branch=master --cleanup",
     "precommit": "npm run lint"
   },
+  "dependencies": {
+    "nuxt": "^1.0.0-rc3",
+    "bulma": "^0.4.3"
+  },
   "devDependencies": {
-    "babel-eslint": "^7.1.1",
-    "eslint": "^3.15.0",
-    "eslint-config-standard": "^6.2.1",
-    "eslint-loader": "^1.6.1",
-    "eslint-plugin-html": "^2.0.0",
-    "eslint-plugin-promise": "^3.4.1",
-    "eslint-plugin-standard": "^2.0.1",
-    "push-dir": "^0.4.1"
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-html": "^3.1.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
   }
 }
