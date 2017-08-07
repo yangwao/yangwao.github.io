@@ -152,14 +152,14 @@
     <div class="column is-offset-2 is-8">
       <ul>
         <li>2003 gentoo rookie</li>
-        <li>2003 first hacked WEP <3</li>
+        <li>2003 💗 first hacked WEP</li>
         <li>2005 began w/ IRC</li>
         <li>2006 syx.sk (unix shells)</li>
         <li>2006 adlerka.budik.eu (just another whistleblower blog for our school)</li>
-        <li>2007 top10 CS:Source server provider <3</li>
+        <li>2007 💗 top10 CS:Source server provider</li>
         <li>2008 sticker collector</li>
         <li>2008 yay@me % mv highSchool 🏫 university 🎓</li>
-        <li>2010 NEXT: festival of advanced music (AV helper) <3</li>
+        <li>2010 💗 NEXT: festival of advanced music (AV helper)</li>
         <li>2010 🛠 Progressbar hackerspace founder</li>
         <li>2011 Head of 🍹 Club-Mate supply chain at Progressbar</li>
         <li>2011 🖥 msg.bar</li>
@@ -167,7 +167,7 @@
         <li>2012 Progressbar headmaster</li>
         <li>2012 Geefu @ founder</li>
         <li>2013 Radio TLIS 🎙 speaker</li>
-        <li>2013 Bitcoin not bombs t-shirts <3</li>
+        <li>2013 💗 Bitcoin not bombs t-shirts</li>
         <li>2013 🏄 surfer</li>
         <li>2013 Bitcoin meetups organizer in Bratislava</li>
         <li>2013 Fablava meetups & group for local makers hive</li>
