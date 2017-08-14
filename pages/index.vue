@@ -77,6 +77,7 @@
         <li>🐳 Docker & docker-compose</li>
         <li>Kernel experience w/ Grsecurity & PaX patches</li>
         <li>Desktop apps in Electron with auto-update & code-signing (electron-vue too)</li>
+        <li>CI 👷 Travis & Appveyor</li>
         <li>System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)</li>
         <li>Hardware tinkering - Arduino, 3D printing</li>
         <li>Atom Editor - power shortcuts, own snippets and practical usage</li>
