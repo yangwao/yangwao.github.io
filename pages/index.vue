@@ -91,9 +91,9 @@
     </div>
   </div>
   <div class="columns">
-    <div class="column is-offset-2">
+    <div class="column is-offset-2 is-6">
       <p>
-        Being able to design, prototype, code, 💅polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>.
+        Being able to design, prototype, code, 💅 polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>.
       </p>
     </div>
   </div>
