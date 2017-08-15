@@ -93,7 +93,7 @@
   <div class="columns">
     <div class="column is-offset-2">
       <p>
-        Beign able to design, code, build, deploy and scale.
+        Being able to design, prototype, code, 💅polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>.
       </p>
     </div>
   </div>
@@ -122,9 +122,9 @@
       <dl>
         <li>ES2017 (ES8), ES2018, ES2019,...</li>
         <li>GraphQL</li>
-        <li>Serverless frameworks ( i.e. https://stdlib.com/ )</li>
+        <li>Serverless frameworks ( i.e. <a href="https://stdlib.com/">stdlib.com</a>  )</li>
         <li>NLP, Tensorflow, Magenta</li>
-        <li>More distributed technologies & protolcs (ScuttleButt, KappaArch, Hyperlog, IPFS,...)</li>
+        <li>More distributed technologies & protocols (ScuttleButt, KappaArch, Hyperlog, IPFS,...)</li>
         <li>MerkleDag approach, Hyperlog</li>
         <li>GoLang</li>
         <li>Rust</li>
