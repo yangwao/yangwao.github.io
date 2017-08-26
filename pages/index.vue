@@ -126,6 +126,7 @@
         <li>NLP, Tensorflow, Magenta</li>
         <li>More distributed technologies & protocols (ScuttleButt, KappaArch, Hyperlog, IPFS,...)</li>
         <li>MerkleDag approach, Hyperlog</li>
+	<li>Random stack like <a href="https://choo.io">Choo</a></li>
         <li>GoLang</li>
         <li>Rust</li>
       </dl>
