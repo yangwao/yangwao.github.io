@@ -153,7 +153,7 @@
   <div class="columns">
     <div class="column is-offset-2 is-8">
       <ul>
-        <li>2003 gentoo rookie</li>
+        <li>2003 Gentoo rookie</li>
         <li>2003 💗 first hacked WEP</li>
         <li>2005 began w/ IRC</li>
         <li>2006 syx.sk (unix shells)</li>
