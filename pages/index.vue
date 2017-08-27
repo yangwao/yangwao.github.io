@@ -186,7 +186,7 @@
         <li>2015 Software Engineer/Full Stack Developer @ SaferPass</li>
         <li>2015 Soylent tasting sessions</li>
         <li>2015 began learning Chinese (Mandarin) 早上好</li>
-        <li>2015 👨‍🏫  NodeSchool Bratislava</li>
+        <li>2015 👨‍🏫  <a href="https://nodeschool.io/bratislava/">NodeSchool Bratislava (link)</a></li>
         <li>2016 Oracle @ HackerDome (paused due missing-resources)</li>
         <li>2016 became chip-transhumanist w/ 888 bytes of storage under skin</li>
         <li>2016 💊 Nootropics sessions in Progressbar</li>
