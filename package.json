@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bulma": "^0.4.3",
-    "nuxt": "^1.0.0-rc3"
+    "nuxt": "1.0.0-rc3"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
