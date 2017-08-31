@@ -183,6 +183,7 @@
         <li>2014 amateur (>🏄 kitesurfer</li>
         <li>2014 Grandfather of Fablab Bratislava</li>
         <li>2014 🔊 speaker at European Researchers' Night</li>
+        <li>2015 Working with CT/MRI DICOM files</li>
         <li>2015 Software Engineer/Full Stack Developer @ SaferPass</li>
         <li>2015 Soylent tasting sessions</li>
         <li>2015 began learning Chinese (Mandarin) 早上好</li>
