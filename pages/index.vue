@@ -63,10 +63,11 @@
   <div class="columns">
     <div class="column is-offset-2 is-8">
       <dl>
-        <li>AWS - EC2, Cloudfront, S3, Lambda</li>
-        <li>GCP - Compute</li>
         <li>Backend - Node.js, Express.js, ES2015 (ES6), FlowType, StandardJS</li>
         <li>Frontend - Vue.js, Bulma, Bootstrap, jQuery</li>
+	<li>FaaS - <a href="https://stdlib.com/">StdLib.com</a></li>
+        <li>Amazon Web Services (AWS) - EC2, Cloudfront, S3, Lambda</li>
+        <li>Google Cloud Platform (GCP) - Compute</li>
         <li>🔐 Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</li>
         <li>⛓💰 Cryptocurrencies -  Bitcoin, Litecoin, Ethereum, 🤝💻 Smart Contracts</li>
         <li>CouchDB</li>
