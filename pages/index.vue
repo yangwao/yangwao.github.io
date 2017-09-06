@@ -4,12 +4,12 @@
   <div class="columns">
     <div class="column is-half is-offset-2">
       <h1 class="title is-1">👨‍💻 Matej Nemček</h1>
-      <h3 class="subtitle is-3">⚡️ dump of my 💖 🕓</h3>
+      <h3 class="subtitle is-3">⚡️ dump of 💖 🕓</h3>
     </div>
   </div>
   <div class="columns">
     <div class="column is-half is-offset-2">
-      <h2 class="title is-2">Reach 👋 & follow me 🖖</h2>
+      <h2 class="title is-2">Reach 👋 follow me 🖖</h2>
     </div>
   </div>
   <div class="columns">
@@ -36,7 +36,7 @@
   </div>
   <div class="columns">
     <div class="column is-offset-2 is-half">
-      <h2 class="title is-2">My decent 🔐 communication channels</h2>
+      <h2 class="title is-2">Decent 🗣 communication 🔐 channels</h2>
     </div>
   </div>
   <div class="columns">
@@ -63,12 +63,12 @@
   <div class="columns">
     <div class="column is-offset-2 is-8">
       <dl>
-        <li>Backend - Node.js, Express.js, ES2015 (ES6), FlowType, StandardJS</li>
-        <li>Frontend - Vue.js, Bulma, Bootstrap, jQuery</li>
+        <li>Backend - <a href="https://nodejs.org">Node.js</a> , Express.js, ES2015 (ES6),  <a href="https://flow.org/">FlowType</a>, <a href="https://standardjs.com/">StandardJS</a></li>
+        <li>Frontend - <a href="https://vuejs.org/">Vue.js</a>, <a href="http://bulma.io/">Bulma</a>, Bootstrap, jQuery</li>
 	<li>FaaS - <a href="https://stdlib.com/">StdLib.com</a></li>
         <li>Amazon Web Services (AWS) - EC2, Cloudfront, S3, Lambda</li>
         <li>Google Cloud Platform (GCP) - Compute</li>
-        <li>🔐 Cryptography - Public-key, DH, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</li>
+        <li>🔐 Cryptography - Public-key, Diffie-Hellman, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</li>
         <li>⛓💰 Cryptocurrencies -  Bitcoin, Litecoin, Ethereum, 🤝💻 Smart Contracts</li>
         <li>CouchDB</li>
         <li>Couchbase - Views, N1QL</li>
@@ -78,7 +78,7 @@
         <li>🐳 Docker & docker-compose</li>
         <li>Kernel experience w/ Grsecurity & PaX patches</li>
         <li>Desktop apps in Electron with auto-update & code-signing (electron-vue too)</li>
-        <li>CI 👷 Travis & Appveyor</li>
+        <li>CI 👷 <a href="https://travis-ci.org/">Travis</a> & <a href="https://www.appveyor.com/">Appveyor</a></li>
         <li>System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)</li>
         <li>Hardware tinkering - Arduino, 3D printing</li>
         <li>Atom Editor - power shortcuts, own snippets and practical usage</li>
@@ -106,7 +106,7 @@
   <div class="columns">
     <div class="column is-offset-2">
       <dl>
-        <li><a href="https://github.com/yangwao?tab=repositories)">my github repositories</a></li>
+        <li><a href="https://github.com/yangwao?tab=repositories">my github repositories</a></li>
         <li><a href="https://github.com/yangwao/skCube_data_collector">skCube (cubesat) server collector + electron client</a></li>
         <li><a href="https://www.npmjs.com/package/zilchpass">zilchpass</a></li>
         <li><a href="http://crypto2020.hypersignal.xyz">crypto2020</a></li>
@@ -122,9 +122,9 @@
     <div class="column is-offset-2 is-8">
       <dl>
         <li>ES2017 (ES8), ES2018, ES2019,...</li>
-        <li>GraphQL</li>
+        <li><a href="http://graphql.org/">GraphQL</a></li>
         <li>Serverless frameworks ( i.e. <a href="https://stdlib.com/">stdlib.com</a>  )</li>
-        <li>NLP, Tensorflow, Magenta</li>
+        <li>NLP, <a href="https://www.tensorflow.org/">Tensorflow</a>, Magenta</li>
         <li>More distributed technologies & protocols (ScuttleButt, KappaArch, Hyperlog, IPFS,...)</li>
         <li>MerkleDag approach, Hyperlog</li>
 	<li>Random stack like <a href="https://choo.io">Choo</a></li>
@@ -155,8 +155,8 @@
     <div class="column is-offset-2 is-8">
       <ul>
         <li>2003 Gentoo rookie</li>
-        <li>2003 💗 first hacked WEP</li>
-        <li>2005 began w/ IRC</li>
+        <li>2003 💗 first hacked wifi (WEP)</li>
+        <li>2005 began w/ IRC presence</li>
         <li>2006 syx.sk (unix shells)</li>
         <li>2006 adlerka.budik.eu (just another whistleblower blog for our school)</li>
         <li>2007 💗 top10 CS:Source server provider</li>
@@ -205,7 +205,7 @@
   </div>
   <div class="columns">
     <div class="column is-offset-2">
-      <h3 class="title is-3">end credits - inspired by</h3>
+      <h3 class="title is-3">End credits - inspired by</h3>
     </div>
   </div>
   <div class="columns">
@@ -221,7 +221,7 @@
   </div>
   <div class="columns">
     <div class="column is-offset-2">
-      <h4 class="title is-4">random awww</h4>
+      <h4 class="title is-4">Random awww</h4>
     </div>
   </div>
   <div class="columns">
