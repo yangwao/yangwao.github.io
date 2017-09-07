@@ -65,7 +65,7 @@
       <dl>
         <li>Backend - <a href="https://nodejs.org">Node.js</a> , Express.js, ES2015 (ES6),  <a href="https://flow.org/">FlowType</a>, <a href="https://standardjs.com/">StandardJS</a></li>
         <li>Frontend - <a href="https://vuejs.org/">Vue.js</a>, <a href="http://bulma.io/">Bulma</a>, Bootstrap, jQuery</li>
-	<li>FaaS - <a href="https://stdlib.com/">StdLib.com</a></li>
+        <li>FaaS - <a href="https://stdlib.com/">StdLib.com</a>, Firebase Cloud Functions, webtask.io</li>
         <li>Amazon Web Services (AWS) - EC2, Cloudfront, S3, Lambda</li>
         <li>Google Cloud Platform (GCP) - Compute</li>
         <li>🔐 Cryptography - Public-key, Diffie-Hellman, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</li>
@@ -83,6 +83,7 @@
         <li>Hardware tinkering - Arduino, 3D printing</li>
         <li>Atom Editor - power shortcuts, own snippets and practical usage</li>
         <li>Community Manager & Speaker - learned do's & don'ts and teach ethics of community</li>
+        <li>VR - aframe.io</li>
       </dl>
     </div>
   </div>
@@ -94,7 +95,7 @@
   <div class="columns">
     <div class="column is-offset-2 is-6">
       <p>
-        Being able to design, prototype, code, 💅 polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>.
+        Being able to design, prototype, code, 💅 polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>. I feel myself comfortable on position of <a href="https://en.wikipedia.org/wiki/Site_reliability_engineering">SRE</a>.
       </p>
     </div>
   </div>
