@@ -167,7 +167,7 @@
         <li>2010 💗 NEXT: festival of advanced music (AV helper)</li>
         <li>2010 🛠 Progressbar hackerspace founder</li>
         <li>2011 Head of 🍹 Club-Mate supply chain at Progressbar</li>
-        <li>2011 🖥 <a href="https://msg-bar.netlify.com/#/">msg.bar</a></li>
+        <li>2011 🖥 <a href="https://msg-bar.netlify.com/#/">msg.bar</a>st</li>
         <li>2012 held first Cryptoparty at Progressbar</li>
         <li>2012 Progressbar headmaster</li>
         <li>2012 Geefu @ founder</li>
@@ -191,6 +191,7 @@
         <li>2015 Soylent tasting sessions</li>
         <li>2015 began learning Chinese (Mandarin) 早上好</li>
         <li>2015 👨‍🏫  <a href="https://nodeschool.io/bratislava/">NodeSchool Bratislava (link)</a></li>
+        <li>2015 <a href="https://www.stickermule.com/marketplace/10818-offline-t-rex">hexagon sticker offline T-rex</a><a href="http://hexb.in/">[1]</a></li>
         <li>2016 Oracle @ HackerDome (paused due missing-resources)</li>
         <li>2016 became chip-transhumanist w/ 888 bytes of storage under skin</li>
         <li>2016 💊 Nootropics sessions in Progressbar</li>
