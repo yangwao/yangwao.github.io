@@ -167,7 +167,7 @@
         <li>2010 💗 NEXT: festival of advanced music (AV helper)</li>
         <li>2010 🛠 Progressbar hackerspace founder</li>
         <li>2011 Head of 🍹 Club-Mate supply chain at Progressbar</li>
-        <li>2011 🖥 msg.bar</li>
+        <li>2011 🖥 <a href="https://msg-bar.netlify.com/#/">msg.bar</a></li>
         <li>2012 held first Cryptoparty at Progressbar</li>
         <li>2012 Progressbar headmaster</li>
         <li>2012 Geefu @ founder</li>
@@ -187,7 +187,7 @@
         <li>2014 Grandfather of Fablab Bratislava</li>
         <li>2014 🔊 speaker at European Researchers' Night</li>
         <li>2015 Working with CT/MRI DICOM files</li>
-        <li>2015 Software Engineer/Full Stack Developer @ SaferPass</li>
+        <li>2015 Full Stack Developer and SRE @ SaferPass</li>
         <li>2015 Soylent tasting sessions</li>
         <li>2015 began learning Chinese (Mandarin) 早上好</li>
         <li>2015 👨‍🏫  <a href="https://nodeschool.io/bratislava/">NodeSchool Bratislava (link)</a></li>
@@ -195,11 +195,13 @@
         <li>2016 became chip-transhumanist w/ 888 bytes of storage under skin</li>
         <li>2016 💊 Nootropics sessions in Progressbar</li>
         <li>2011-201x 💪 bunch of other events in Progressbar hackerspace</li>
-        <li>2016 ⚫️⚪️ go(game)/baduk player</li>
-        <li>2016 White Night Bratislava // Muhnee fluhks co-op w/ demoscene artist Zden</li>
-        <li>2016 White Night Bratislava // Hue Punk Booth w/ Adam and Progressbar members</li>
+        <li>2016 ⚫️⚪️ <a href="https://en.wikipedia.org/wiki/Go_(game)">go(game)/baduk</a> experience</li>
+        <li>2016 <a href="https://www.bielanoc.sk/">White Night Bratislava</a> // Muhnee fluhks co-op w/ demoscene artist Zden</li>
+        <li>2016 <a href="https://www.bielanoc.sk/">White Night Bratislava</a> // Hue Punk Booth w/ Adam and Progressbar members</li>
+        <li>2016 <a href="https://www.eodc.eu/eodc-successfully-hosted-copernicus-hackathon/">Open Data Copernicus Hackathon in Vienna, Europe</a><a href="https://copernicus.devpost.com/">[1]</a><a href="http://www.copernicus.eu/news/register-copernicus-earth-observation-data-hackathon-vienna">[2]</a><a href="http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus">[3]</a> </li>
         <li>2017 🤘 awesome-offline</li>
         <li>2017 🔐 human-crypt </li>
+        <li>2017 Senior Software Engineer ICO dept @ <a href="https://decent.ch/">DECENT</a></li>
         <li>2040 my mind was deployed to the Grid</li>
         <li>2140 left 🌎 planet </li>
       </ul>
