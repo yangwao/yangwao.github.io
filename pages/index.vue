@@ -36,28 +36,7 @@
   </div>
   <div class="columns">
     <div class="column is-offset-2 is-half">
-      <h2 class="title is-2">Decent 🗣 communication 🔐 channels</h2>
-    </div>
-  </div>
-  <div class="columns">
-    <div class="column is-offset-2 is-half">
-      <p>
-        My Scuttlebutt true name is <strong>@NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519</strong>
-      </p>
-      <p>
-        My miniLock ID is <strong>2A8Y2hLRMYgMWxJ9rqFeMsTMn8ppCUzA4TQCumvG9CuQr8</strong> (learn more at <a href="http://minilock.io">minilock.io</a> )
-      </p>
-      <p>
-        ⫸  emojilock
-      </p>
-      <p>
-        ⚽️🐋👉🔋🔮💰👆⭐️✂️📌🐗🚡🎮⌛️😭🍇🐚🚧🍫😎🚥💉🎨🔉👰➡️👫🌽🔨📼🏀👽
-      </p>
-    </div>
-  </div>
-  <div class="columns">
-    <div class="column is-offset-2 is-half">
-      <h2 class="title is-2">Gained knowledge so far</h2>
+      <h2 class="title is-2">I've gained experience</h2>
     </div>
   </div>
   <div class="columns">
@@ -68,8 +47,12 @@
         <li>FaaS - <a href="https://stdlib.com/">StdLib.com</a>, Firebase Cloud Functions, webtask.io</li>
         <li>Amazon Web Services (AWS) - EC2, Cloudfront, S3, Lambda</li>
         <li>Google Cloud Platform (GCP) - Compute, Firebase Cloud Functions</li>
-        <li>🔐 Cryptography - Public-key, Diffie-Hellman, Sealed Boxes, Authenticated Encryption, Password hashing, Stream ciphers</li>
-        <li>⛓💰 Cryptocurrencies -  Bitcoin, Litecoin, Ethereum, 🤝💻 Smart Contracts</li>
+        <li><strong>Cryptography</strong>🔐  - Public-key Architecture, Diffie-Hellman, Sealed Boxes</li>
+        <li>Authenticated Encryption, Password hashing, Stream ciphers</li>
+        <li><strong>Cryptocurrencies</strong>⛓💰 </li>
+        <li>Bitcoin - running nodes and rpc api</li>
+        <li>Ethereum - web3, 🤝💻 Smart Contracts</li>
+        <li>Bitshares - graphene protocol</li>
         <li>CouchDB</li>
         <li>Couchbase - Views, N1QL</li>
         <li>🍃 MongoDb - aggregation, 2nd neighbors selections</li>
@@ -77,7 +60,7 @@
         <li>Ethical Hacker</li>
         <li>🐳 Docker & docker-compose</li>
         <li>Kernel experience w/ Grsecurity & PaX patches</li>
-        <li>Desktop apps in Electron with auto-update & code-signing (electron-vue too)</li>
+        <li>Desktop apps in Electron w/ auto-update & code-signing</li>
         <li>CI 👷 <a href="https://travis-ci.org/">Travis</a> & <a href="https://www.appveyor.com/">Appveyor</a></li>
         <li>VR - <a href="http://aframe.io">aframe.io</a></li>
         <li>System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)</li>
@@ -125,11 +108,9 @@
       <dl>
         <li>ES2017 (ES8), ES2018, ES2019,...</li>
         <li><a href="http://graphql.org/">GraphQL</a></li>
-        <li>Serverless frameworks ( i.e. <a href="https://stdlib.com/">stdlib.com</a>  )</li>
         <li>NLP, <a href="https://www.tensorflow.org/">Tensorflow</a>, Magenta</li>
-        <li>More distributed technologies & protocols (ScuttleButt, KappaArch, Hyperlog, IPFS,...)</li>
-        <li>MerkleDag approach, Hyperlog</li>
-	<li>Random stack like <a href="https://choo.io">Choo</a></li>
+        <li>Distributed technologies & protocols (ScuttleButt, Hyperlog, IPFS)</li>
+      	<li>Random stack like <a href="https://choo.io">Choo</a></li>
         <li>GoLang</li>
         <li>Rust</li>
       </dl>
@@ -147,7 +128,27 @@
       </p>
     </div>
   </div>
-
+  <div class="columns">
+    <div class="column is-offset-2 is-half">
+      <h2 class="title is-2">Decent 🗣 communication 🔐 channels</h2>
+    </div>
+  </div>
+  <div class="columns">
+    <div class="column is-offset-2 is-half">
+      <p>
+        My Scuttlebutt true name is <strong>@NaDXehMSIgk08W5RXZJ0p+7m+19iIWEuAtD7FRESJX8=.ed25519</strong>
+      </p>
+      <p>
+        My miniLock ID is <strong>2A8Y2hLRMYgMWxJ9rqFeMsTMn8ppCUzA4TQCumvG9CuQr8</strong> (learn more at <a href="http://minilock.io">minilock.io</a> )
+      </p>
+      <p>
+        ⫸  emojilock
+      </p>
+      <p>
+        ⚽️🐋👉🔋🔮💰👆⭐️✂️📌🐗🚡🎮⌛️😭🍇🐚🚧🍫😎🚥💉🎨🔉👰➡️👫🌽🔨📼🏀👽
+      </p>
+    </div>
+  </div>
   <div class="columns">
     <div class="column is-offset-2">
       <h3 class="title is-3">Captain.log</h3>
@@ -167,7 +168,7 @@
         <li>2010 💗 NEXT: festival of advanced music (AV helper)</li>
         <li>2010 🛠 Progressbar hackerspace founder</li>
         <li>2011 Head of 🍹 Club-Mate supply chain at Progressbar</li>
-        <li>2011 🖥 <a href="https://msg-bar.netlify.com/#/">msg.bar</a>st</li>
+        <li>2011 🖥 <a href="https://msg-bar.netlify.com/#/">msg.bar</a></li>
         <li>2012 held first Cryptoparty at Progressbar</li>
         <li>2012 Progressbar headmaster</li>
         <li>2012 Geefu @ founder</li>
