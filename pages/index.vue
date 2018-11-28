@@ -19,17 +19,17 @@
           <a class="button is-info is-outlined is-large" href="https://github.com/yangwao">Github</a>
         </div>
         <div class="column">
-          <a class="button is-info is-outlined is-large" href="https://twitter.com/yangwao">Twitter</a>
+          <a class="button is-info is-outlined is-large" href="https://sk.linkedin.com/in/mnemcek">Linkedin</a>
         </div>
       </div>
     </div>
     <div class="column">
       <div class="columns is-mobile">
         <div class="column ">
-          <a class="button is-info is-outlined is-large" href="https://sk.linkedin.com/in/mnemcek">Linkedin</a>
+          <a class="button is-info is-outlined is-large" href="https://t.me/yangwao">Telegram</a>
         </div>
         <div class="column">
-          <a class="button is-info is-outlined is-large" href="https://www.instagram.com/yangwao/">Instagram</a>
+          <a class="button is-info is-outlined is-large" href="https://twitter.com/yangwao">Twitter</a>
         </div>
       </div>
     </div>
@@ -51,7 +51,7 @@
         <li>Authenticated Encryption, Password hashing, Stream ciphers</li>
         <li><strong>Cryptocurrencies</strong>⛓💰 </li>
         <li>Bitcoin - running nodes and rpc api</li>
-        <li>Ethereum - web3, 🤝💻 Smart Contracts</li>
+        <li>Ethereum - web3, 🤝💻 Smart Contracts, Solidity, ERC-20, ERC-721</li>
         <li>Bitshares - graphene protocol</li>
         <li>CouchDB</li>
         <li>Couchbase - Views, N1QL</li>
@@ -91,10 +91,13 @@
   <div class="columns">
     <div class="column is-offset-2">
       <dl>
-        <li><a href="https://github.com/yangwao?tab=repositories">my github repositories</a></li>
+        <li>my <a href="https://github.com/yangwao?tab=repositories">github</a> & <a href="https://gitlab.com/users/yangwao/activity">gitlab</a> repositories </li>
         <li><a href="https://github.com/yangwao/skCube_data_collector">skCube (cubesat) server collector + electron client</a></li>
         <li><a href="https://www.npmjs.com/package/zilchpass">zilchpass</a></li>
         <li><a href="http://crypto2020.hypersignal.xyz">crypto2020</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1Uag23N2kyX2aUY-z1mMrLb1JsFxpskEsL-So5WSxQCA/edit?usp=sharing">What is ERC (Ethereum)</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1cpFmHAssrl7et6e3aFDKj5A7zrgaKG1jYCZMLkJ-hzM/edit?usp=sharing">Devcon4 recap (Ethereum)</a></li>
+        <li><a href="https://medium.com/wearekickback/call-for-sponsorship-of-a-local-ethereum-event-solidity-5-0-91b9e8b2f453">Call for Sponsorship for Progressbar</a></li>
       </dl>
     </div>
   </div>
@@ -193,7 +196,7 @@
         <li>2015 began learning Chinese (Mandarin) 早上好</li>
         <li>2015 👨‍🏫  <a href="https://nodeschool.io/bratislava/">NodeSchool Bratislava (link)</a></li>
         <li>2015 <a href="https://www.stickermule.com/marketplace/10818-offline-t-rex">hexagon sticker offline T-rex</a><a href="http://hexb.in/">[1]</a></li>
-        <li>2016 Oracle @ HackerDome (paused due missing-resources)</li>
+        <li>2016 Oracle @ HackerDome (co-living,co-housing) (paused due missing-resources)</li>
         <li>2016 became chip-transhumanist w/ 888 bytes of storage under skin</li>
         <li>2016 💊 Nootropics sessions in Progressbar</li>
         <li>2011-201x 💪 bunch of other events in Progressbar hackerspace</li>
@@ -203,7 +206,17 @@
         <li>2016 <a href="https://www.eodc.eu/eodc-successfully-hosted-copernicus-hackathon/">Open Data Copernicus Hackathon in Vienna, Europe</a><a href="https://copernicus.devpost.com/">[1]</a><a href="http://www.copernicus.eu/news/register-copernicus-earth-observation-data-hackathon-vienna">[2]</a><a href="http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus">[3]</a> </li>
         <li>2017 🤘 awesome-offline</li>
         <li>2017 🔐 human-crypt </li>
-        <li>2017 Senior Software Engineer ICO dept @ <a href="https://decent.ch/">DECENT</a></li>
+        <li>2017 Senior Software Engineer ICO dept @ <a href="https://decent.ch/">DECENT</a> // Ethereum & Solidity stuff</li>
+        <li>2017 <a href="https://www.meetup.com/openblockchainbratislava/">Open Blockchain Bratislava Meetup</a> organiser
+        <li>2018 Moved <a href="https://cowork.progressbar.sk">Progressbar</a> to new place and 🙏🌈🚀 spin-up (crypto)cowork</li>
+        <li>2018 <a href="https://alax.io">Alax.io</a> Airdrop & Chatbots on Telegram</li>
+        <li>2018 <a href="https://alax.io">Alax.io</a> Senior Software Engineer & Solidity Engineer</li>
+        <li>2018 <a href="https://github.com/DECENTfoundation/DCore-ATM-integration">Dcore integration</a> with General Bytes ATM for their coin
+        <li>2018 <a href="https://explorer.decent.ch">Decent explorer</a>
+        <li>2018 <a href="https://alax.io">Alax.io</a> ERC-20 Token Swap to Dcore</li>
+        <li>2018 Dcore x Exalabs onboarding in Seoul, South Korea</li>
+        <li>2018 Hosting Vlad Zamfir && Amir Taaki && Harry Halpin in Progressbar</li>
+        <li>2018 NFT game</li>
         <li>2040 my mind was deployed to the Grid</li>
         <li>2140 left 🌎 planet </li>
       </ul>
