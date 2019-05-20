@@ -67,7 +67,7 @@
         <li>Hardware tinkering - Arduino, 3D printing</li>
         <li>Atom Editor - power shortcuts, own snippets and practical usage</li>
         <li>🔊 Speaker - TEDx, Meetups, Progressbar</li>
-        <li>Community Manager - coinunity, nodeschool bratislava, Progressbar, learned do's & don'ts and teach ethics of community</li>
+        <li>Community Manager - coinunity, <a href="https://www.meetup.com/nodejsbratislava/">Nodeschool Bratislava</a>, <a href="https://cowork.progressbar.sk">Progressbar</a>, learned do's & don'ts and teach ethics of community</li>
       </dl>
     </div>
   </div>
@@ -79,7 +79,7 @@
   <div class="columns">
     <div class="column is-offset-2 is-6">
       <p>
-        Being able to design, prototype, code, 💅 polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>. I feel myself comfortable on position of <a href="https://en.wikipedia.org/wiki/Site_reliability_engineering">SRE</a>.
+        Being able to design, prototype, code, 💅 polish, build, deploy and scale. I keep my mind calm, when there is known scenario ahead including <a href="https://en.wikipedia.org/wiki/Antifragility">antifragility</a>. I feel myself comfortable on position of <a href="https://www.quora.com/What-exactly-is-the-job-of-a-developer-advocate">Developer Advocate</a>.
       </p>
     </div>
   </div>
@@ -217,6 +217,13 @@
         <li>2018 Dcore x Exalabs onboarding in Seoul, South Korea</li>
         <li>2018 Hosting Vlad Zamfir && Amir Taaki && Harry Halpin in Progressbar</li>
         <li>2018 NFT game</li>
+        <li>2019 Fixed website for <a href="https://cowork.progressbar.sk">Progressbar Cowork</a> and learned more about lighthouse & a11y</li>
+        <li>2019 R&D for <a href="https://decent.ch">Decent.ch</a></li>
+        <li>2019 Issuing & resolving bounties at <a href="https://bounties.network/">Bounties.network</a> for Decent.ch</li>
+        <li>2019 <a href="https://medium.com/@yangWao/how-to-get-a-bounty-really-easy-932d1b347fb5">Build bot for Totle.com for bounty</a></li>
+        <li>2019 Part of winning team at <a href="https://ethcapetown.com">Ethereum CapeTown</a> doing <a href="https://devpost.com/software/dtok-amfc4e">dTok</a> (ETHCapeTown Finalists, NuCypher, ENS, MakerDAO, Raiden)</li>
+        <li>2019 Build bot for <a href="https://defipulse.com/">Defipulse.com</a>✨🐬 you can try it <a href="https://t.me/defipulsie_bot">DeFiPulsie</a>
+        <li>2019 Build bot for <a href="https://ethgasstation.info/">ethgasstation.info</a> ✨🐬you can try it <a href="https://t.me/gasie_bot">Gasie</a>
         <li>2040 my mind was deployed to the Grid</li>
         <li>2140 left 🌎 planet </li>
       </ul>
