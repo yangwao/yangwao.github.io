@@ -6,8 +6,13 @@ module.exports = {
   themeConfig: {
     author: 'Matej Nemček',
     navbar: { // will display below the title
-      about: 'hypersignal.xyz',
-      work: '/work'
+      about: './about',
+      work: './work',
+      contact: './contact',
+      experience: './experience'
     }
+  },
+  markdown: {
+    lineNumbers: true
   }
 }
