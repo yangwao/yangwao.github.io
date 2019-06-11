@@ -5,11 +5,12 @@ module.exports = {
   theme: 'simple',
   themeConfig: {
     author: 'Matej Nemček',
-    navbar: { // will display below the title
-      about: './about',
-      work: './work',
-      contact: './contact',
-      experience: './experience'
+    navbar: {
+      about: '/about',
+      work: '/work',
+      contact: '/contact',
+      experience: '/experience',
+      podcast: '/podcast'
     }
   },
   markdown: {

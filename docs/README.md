@@ -1,33 +1,16 @@
-# Hello VuePress
-Backend - Node.js , Express.js, ES2015 (ES6), FlowType, StandardJS
-qweqweqweqw
-Frontend - Vue.js, Bulma, PouchDB, Bootstrap, jQuery
+---
+home: true
+actionText: Get Started →
+features:
+- title: Simplicity First
+  details: Minimal setup with markdown-centered project structure helps you focus on writing.
+- title: Vue-Powered
+  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: Performant
+  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: MIT Licensed | Copyright © 2018-present Evan You
+---
 
-FaaS - StdLib.com, Firebase Cloud Functions, webtask.io
+# Hello Readme
 
-Amazon Web Services (AWS) - EC2, Cloudfront, S3, Lambda
-
-Google Cloud Platform (GCP) - Compute, Firebase Cloud Functions
-
-Cryptography🔐 - Public-key Architecture, Diffie-Hellman, Sealed Boxes
-
-Authenticated Encryption, Password hashing, Stream ciphers
-Cryptocurrencies⛓💰
-Bitcoin - running nodes and rpc api
-Ethereum - web3, 🤝💻 Smart Contracts, Solidity, ERC-20, ERC-721
-Bitshares - graphene protocol
-CouchDB
-Couchbase - Views, N1QL
-🍃 MongoDb - aggregation, 2nd neighbors selections
-Redis - basic stuff
-Ethical Hacker
-🐳 Docker & docker-compose
-Kernel experience w/ Grsecurity & PaX patches
-Desktop apps in Electron w/ auto-update & code-signing
-CI 👷 Travis & Appveyor
-VR - aframe.io
-System Administration - DevOps, Linux (Gentoo, RHEL, Fedora, Ubuntu)
-Hardware tinkering - Arduino, 3D printing
-Atom Editor - power shortcuts, own snippets and practical usage
-🔊 Speaker - TEDx, Meetups, Progressbar
-Community Manager - coinunity, Nodeschool Bratislava, Progressbar, learned do's & don'ts and teach ethics of community
+Is this index of page?
