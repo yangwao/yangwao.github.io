@@ -2,7 +2,7 @@ module.exports.experience = {
   Backend:
     '[nodejs, Express.js, ES2015, ES6, StandardJS]',
   Frontend:
-    '[Vue.js, Bulma.io, PouchDB, BootStrap, jQuery]',
+    '[Vue.js, Bulma.io, Lighthouse, PouchDB, BootStrap, jQuery]',
   Infrastructure: [
     ['FaaS', 'stdlib.com'],
     ['AWS', 'EC2, CloudFront, S3, Lambda'],

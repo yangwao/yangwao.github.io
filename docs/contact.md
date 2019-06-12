@@ -1,4 +1,5 @@
 # Contact
+
 I prefer mail contact: matej.nemcek -at- geefu.net. 
 
 Send me an email regarding anything what's on your mind. I will reply as fast as I can, might take up to one day. Decentralized old-fashioned communication at its best

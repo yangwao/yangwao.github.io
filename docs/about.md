@@ -1,5 +1,5 @@
 # About
-⛈
+🌈
 
 This is supposed to be summary of my wellbeing.
 
