@@ -1,4 +1,3 @@
-# Work - Captain.log
-.
+# Work - Captain.log 👷‍♂️
 
 <<<@/work.js

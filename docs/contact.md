@@ -1,4 +1,4 @@
-# Contact
+# Contact 🤙
 
 I prefer mail contact: matej.nemcek -at- geefu.net. 
 
