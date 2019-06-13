@@ -12,8 +12,5 @@ module.exports = {
       production: '/production',
       about: '/about'
     }
-  },
-  markdown: {
-    lineNumbers: true
   }
 }

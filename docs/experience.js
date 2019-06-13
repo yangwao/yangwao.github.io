@@ -1,8 +1,9 @@
 module.exports.experience = {
   Backend:
-    '[nodejs, Express.js, ES2015, ES6, StandardJS]',
+    ['nodejs, Express.js, ES2015, ES6, StandardJS'],
   Frontend:
-    '[Vue.js, Bulma.io, Lighthouse, PouchDB, BootStrap, jQuery]',
+    ['Vue.js, Bulma.io, Lighthouse, a11y',
+      'Electron PouchDB, BootStrap, jQuery'],
   Infrastructure: [
     ['FaaS', 'stdlib.com'],
     ['AWS', 'EC2, CloudFront, S3, Lambda'],
@@ -14,9 +15,9 @@ module.exports.experience = {
     ['BitShares', 'Graphene protocol']
   ],
   Cryptography: [
-    ['Public-key Architecture', 'Diffie-Hellman', 'Sealed Boxes']
+    ['Public-key Architecture', 'Diffie-Hellman', 'Sealed Boxes'],
     ['Authenticated Encryption', 'Password hashing', 'Stream ciphers']
-  ]
+  ],
   Databases: [
     ['Couchbase', 'Views, N1QL'],
     ['CouchDB'],
@@ -28,6 +29,9 @@ module.exports.experience = {
     ['Travis', 'Appveyor']
   ],
   SysAdmin: [
-    ['Linux', 'Gentoo, RHEL, Fedora, Ubuntu']
+    ['Linux', 'Gentoo, RHEL, Fedora, Ubuntu', 'Grsecurity & PaX']
+  ],
+  SoftSkills: [
+    ['Meetup organizing', 'Leading projects']
   ]
 }

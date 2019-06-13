@@ -1,7 +1,5 @@
 # Experience 👨🏼‍🔬 
 
-.
-
 <<<@/experience.js{3,7,13}
 
 # [Community Building]() 
@@ -13,11 +11,9 @@
 ```js
 module.exports.hobby = {
   Watersports: [
-    'surf 🏄‍♂️', 'kitesurfing','standuppadle'
-  ],
+    'surf 🏄‍♂️', 'kitesurfing','standuppadle'],
   Onland: [
-    'bike 🚵‍♂️','hike 🏔', '🧗‍♂️' 
-  ]
+    'bike 🚵‍♂️','hike 🏔', '🧗‍♂️']
 }
 ```
 
