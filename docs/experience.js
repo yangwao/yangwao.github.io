@@ -13,14 +13,19 @@ module.exports.experience = {
     ['Ethereum', 'web3, Solidity, ERC20, ERC721'],
     ['BitShares', 'Graphene protocol']
   ],
+  Cryptography: [
+    ['Public-key Architecture', 'Diffie-Hellman', 'Sealed Boxes']
+    ['Authenticated Encryption', 'Password hashing', 'Stream ciphers']
+  ]
   Databases: [
     ['Couchbase', 'Views, N1QL'],
     ['CouchDB'],
     ['MongoDB', 'aggregation, 2nd neighbours selections'],
-    ['Redis'],
+    ['Redis']
   ],
   CI_CD: [
-    ['Docker', 'creating images, docker-compose']
+    ['Docker', 'creating images, docker-compose'],
+    ['Travis', 'Appveyor']
   ],
   SysAdmin: [
     ['Linux', 'Gentoo, RHEL, Fedora, Ubuntu']

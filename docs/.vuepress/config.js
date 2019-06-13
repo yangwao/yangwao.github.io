@@ -6,11 +6,11 @@ module.exports = {
   themeConfig: {
     author: 'Matej Nemček',
     navbar: {
-      about: '/about',
       work: '/work',
       contact: '/contact',
       experience: '/experience',
-      podcast: '/podcast'
+      production: '/production',
+      about: '/about'
     }
   },
   markdown: {
