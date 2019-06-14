@@ -9,10 +9,13 @@ I keep my mind calm, when there is known scenario ahead including [antifragility
 I'm person who is constantly seeking system in chaos.
 
 ### Inspiration for this resume is from
-* [@bcrypt](https://diracdeltas.github.io/blog/about/)
+* [@bcrypt](https://diracdeltas.github.io/blog/about)
 * [@uhhyeahbret](https://bret.io)
-* [@daviddias](https://daviddias.me/about/)
+* [@daviddias](https://daviddias.me/about)
 * [@noffle](http://blog.eight45.net/2017/01/11/eight-years.html)
+* [@madewithtea](https://www.madewithtea.com)
+* [@virgilgr](http://virgil.gr)
+* [@samykamkar](https://samy.pl)
 * [hypersignal](https://en.wiktionary.org/wiki/hypersignal)
 
 ### Random awww
