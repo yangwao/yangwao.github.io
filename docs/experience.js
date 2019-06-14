@@ -32,6 +32,8 @@ module.exports.experience = {
     ['Linux', 'Gentoo, RHEL, Fedora, Ubuntu', 'Grsecurity & PaX']
   ],
   SoftSkills: [
-    ['Meetup organizing', 'Leading projects']
+    ['Organizing meetups', 'Leading projects', 'Volunteering'],
+    ['Empathy, Gratitude, Helpfulness, Patience, Open-mindedness'],
+    ['Accountability, Creativity']
   ]
 }

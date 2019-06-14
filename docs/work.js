@@ -1,16 +1,17 @@
 module.exports.past = {
   Contractor: [
-    ['2019', 'Decent',
-      'Bounty program at bounties.network'],
-    ['2018', 'Alax',
-      'Airdrops, chatbots, ERC-20 Token Swap to Dcore'],
-    ['2018', 'Decent',
+    ['2019', 'Decent.ch',
+      'Bounty program at bounties.network', 'r&d chain'],
+    ['2018', 'Alax.io',
+      'Airdrops, Chatbots@Telegram, ERC-20 Token Swap to Dcore'],
+    ['2018', 'Decent.ch',
       'explorer, Dcore ATM integration'],
-    ['2017 - 2019', 'Decent',
-      'Solidity, ICO, backend engineer'],
+    ['2017 - 2018', 'Decent.ch',
+      'Solidity, ICOs, backend engineer, chain integration'],
     ['2015 - 2017', 'Saferpass',
       'backend engineer, infrastructure, cryptography'],
-    ['2015', 'Freelancing in ICT'],
+    ['2015',
+      'Freelancing in ICT'],
     ['2014', 'Aktv.io CRM',
       'founder, backend-engineer'],
     ['2012', 'Geefu',
@@ -41,7 +42,7 @@ module.exports.past = {
   ],
   Personal: [
     ['2018',
-      'Upgrading Progressbar to blockchain cowork'],
+      'Upgrading Progressbar hackerspace to blockchain cowork'],
     ['2016',
       'Oracle @ Hackerdome (co-living;co-housing'],
     ['2016',
@@ -63,6 +64,8 @@ module.exports.past = {
   ],
   Volunteering: [
     ['2018',
+      'Angel @ Chaos Communication Congress'],
+    ['2018',
       'Hosting Vlad Zamfir && Amir Taaki && Harry Halpin in Progressbar'],
     ['2014',
       'Bitcoin Markets in Bratislava', 'Organizer'],
@@ -73,6 +76,6 @@ module.exports.past = {
     ['2010',
       'NEXT: festival of advanced music (AV)'],
     ['2010-2019',
-      'Progressbar volunteer']
+      'Progressbar volunteer & ephemeral headmaster']
   ]
 }

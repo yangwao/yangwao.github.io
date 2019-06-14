@@ -1,6 +1,6 @@
 # Experience 👨🏼‍🔬 
 
-<<<@/experience.js{3,7,13}
+<<<@/experience.js{3,8,14}
 
 # [Community Building]() 
 * [Progressbar Cowork & Hackerspace](https://cowork.progressbar.sk)
@@ -23,3 +23,4 @@ module.exports.hobby = {
 * Distributed technologies & protocols (ScuttleButt, Hyperlog, IPFS)
 * GoLang
 * Rust
+* More mindfulness 🧘‍♂️
