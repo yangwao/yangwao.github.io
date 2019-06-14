@@ -5,7 +5,7 @@ This is supposed to be summary of my wellbeing.
 ### As (FullStack) Developer I learned
 Being able to design, prototype, code, 💅 polish, build, deploy and scale. 
 I keep my mind calm, when there is known scenario ahead including [antifragility](https://en.wikipedia.org/wiki/Antifragility). I feel myself comfortable on position of [Developer Advocate](https://www.quora.com/What-exactly-is-the-job-of-a-developer-advocate).
-At time I was writing this, I was quite happy person who is constantly seeking system in chaos.
+I'm person who is constantly seeking system in chaos.
 
 ### If it's not updated for longer period, either I'm 
 * Living life
