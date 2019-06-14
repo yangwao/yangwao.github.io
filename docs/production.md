@@ -29,17 +29,24 @@ I learned how to make podcasts, so I start making one for Progressbar, but it's 
 * [zilchpass](https://www.npmjs.com/package/zilchpass) - cli storageless password manager
 
 # I like to attend conferences & hackathons 👨‍💻
-* 2013 - LXJS 📍 Lisbon
+* 2011 - CCCamp 📍Finowfurt 
+* 2013 - LXJS 📍Lisbon
 * 2014 - LXJS 📍Lisbon
+* 2014 - Fab10📍Barcelona
 * 2015 - JSConf 📍Budapest
+* 2015 - CCCamp 📍Zehdenick
+* 2015 - Chaos Communication Congress 32c3 📍Hamburg
 * 2016 - JSUnconf.eu 📍Hamburg
 * 2016 - JSConf 📍Budapest / CSSconf
 * 2016 - Copernicus hackathon 📍Vienna
+* 2016 - Chaos Communication Congress 33c3 📍Hamburg
 * 2017 - Vueconf 📍Wrocław
 * 2017 - Google for Developers 📍Krakow
 * 2017 - 9984.io 📍Berlin
+* 2017 - Chaos Communication Congress 34c3 📍Leipzig
 * 2018 - JSUnconf.eu 📍Hamburg
 * 2018 - Devcon4 📍Prague
+* 2018 - Chaos Communication Congress 35c3 📍Leipzig
 * 2019 - Aracon.one 📍Berlin
 * 2019 - GoerliCon 📍Berlin
 * 2019 - ETHCapeTown 📍CapeTown
