@@ -1,5 +1,4 @@
 # Experience 👨🏼‍🔬 
-.
 
 <<<@/experience.js{3,8,14}
 
