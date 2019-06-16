@@ -6,6 +6,7 @@ module.exports.experience = {
       'Electron, PouchDB, BootStrap, jQuery'],
   Infrastructure: [
     ['FaaS', 'stdlib.com'],
+    ['Netlify', 'rewrites, hooks'],
     ['AWS', 'EC2, CloudFront, S3, Lambda'],
     ['GCP', 'Compute, Firebase, Firebase Cloud Functions']
   ],
