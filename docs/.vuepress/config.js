@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Life path of Wao',
   description: 'Long time no see, life reflection',
-  plugins: ['clean-urls', {normalSuffix: '/'}],
+  plugins: ['clean-urls', {normalSuffix: '.html'}],
   theme: 'simple',
   themeConfig: {
     author: 'Matej Nemček',
