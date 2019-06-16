@@ -3,7 +3,7 @@ module.exports.experience = {
     ['nodejs, Express.js, ES2015, ES6, StandardJS'],
   Frontend:
     ['Vue.js, Bulma.io, Lighthouse, a11y',
-      'Electron PouchDB, BootStrap, jQuery'],
+      'Electron, PouchDB, BootStrap, jQuery'],
   Infrastructure: [
     ['FaaS', 'stdlib.com'],
     ['AWS', 'EC2, CloudFront, S3, Lambda'],
@@ -20,7 +20,7 @@ module.exports.experience = {
   ],
   Databases: [
     ['Couchbase', 'Views, N1QL'],
-    ['CouchDB'],
+    ['CouchDB', 'Replications'],
     ['MongoDB', 'aggregation, 2nd neighbours selections'],
     ['Redis']
   ],

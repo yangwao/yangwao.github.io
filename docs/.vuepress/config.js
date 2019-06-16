@@ -1,15 +1,15 @@
 module.exports = {
   title: 'Life path of Wao',
-  description: 'Just playing around',
-  plugins: 'clean-urls',
+  description: 'Long time no see, life reflection',
+  plugins: ['clean-urls', {normalSuffix: ''}],
   theme: 'simple',
   themeConfig: {
     author: 'Matej Nemček',
     navbar: {
-      work: '/work',
-      contact: '/contact',
       experience: '/experience',
+      work: '/work',
       production: '/production',
+      contact: '/contact',
       about: '/about'
     }
   }
