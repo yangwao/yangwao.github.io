@@ -51,6 +51,7 @@ storageless password manager
 * 2017 - 9984.io 📍Berlin
 * 2017 - Chaos Communication Congress 34c3 📍Leipzig
 * 2018 - JSUnconf.eu 📍Hamburg
+* 2018 - Women TechMakers 📍Vienna
 * 2018 - Devcon4 📍Prague
 * 2018 - Chaos Communication Congress 35c3 📍Leipzig
 * 2019 - Aracon.one 📍Berlin
