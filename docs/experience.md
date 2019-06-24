@@ -1,6 +1,6 @@
 # Experience 👨🏼‍🔬 
 
-<<<@/experience.js{3,8,15,20}
+<<<@/experience.js{3,9,16,21}
 
 # [Community Building]() 
 * [Progressbar Cowork & Hackerspace](https://cowork.progressbar.sk)
