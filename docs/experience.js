@@ -1,6 +1,7 @@
 module.exports.experience = {
   Backend:
-    ['nodejs, Express.js, ES2015, ES6, StandardJS'],
+    ['nodejs, Express.js, fastify',
+      'ES2015, ES6, StandardJS, nginx'],
   Frontend:
     ['Vue.js, Bulma.io, Lighthouse, a11y',
       'Electron, PouchDB, BootStrap, jQuery'],
