@@ -1,12 +1,12 @@
 module.exports.experience = {
   Backend:
     ['nodejs, Express.js, fastify',
-      'ES2015, ES6, StandardJS, nginx'],
+      'ES2016+, ES6, ES8, StandardJS, nginx'],
   Frontend:
     ['Vue.js, Bulma.io, Lighthouse, a11y',
       'Electron, PouchDB, BootStrap, jQuery'],
   Infrastructure: [
-    ['FaaS', 'stdlib.com'],
+    ['FaaS', 'stdlib.com', 'serverless'],
     ['Netlify', 'rewrites, hooks'],
     ['AWS', 'EC2, CloudFront, S3, Lambda'],
     ['GCP', 'Compute, Firebase, Firebase Cloud Functions']

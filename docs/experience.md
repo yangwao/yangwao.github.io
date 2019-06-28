@@ -18,8 +18,8 @@ module.exports.hobby = {
 ```
 
 # Interested in new things 🔭
-* ES2019
-* GraphQL
+* ES2019, GraphQL
+* Substrate, Layer3, Interoperability, Sidechains
 * Distributed technologies & protocols (ScuttleButt, Hyperlog, IPFS)
 * GoLang
 * Rust
