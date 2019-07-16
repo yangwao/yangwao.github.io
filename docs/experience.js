@@ -1,6 +1,6 @@
 module.exports.experience = {
   Backend:
-    ['nodejs, Express.js, fastify',
+    ['nodejs, typescript, fastify, rust, ink!',
       'ES2016+, ES6, ES8, StandardJS, nginx'],
   Frontend:
     ['Vue.js, Bulma.io, Lighthouse, a11y',
@@ -14,11 +14,13 @@ module.exports.experience = {
   Cryptocurrencies: [
     ['Bitcoin', 'bitcoind, rpc'],
     ['Ethereum', 'web3, Solidity, ERC20, ERC721'],
+    ['Polkadot', 'substrate', 'keyring', 'wasm'],
     ['BitShares', 'Graphene protocol']
   ],
   Cryptography: [
     ['Public-key Architecture', 'Diffie-Hellman', 'Sealed Boxes'],
-    ['Authenticated Encryption', 'Password hashing', 'Stream ciphers']
+    ['Authenticated Encryption', 'Password hashing', 'Stream ciphers'],
+    ['Ed25519', 'Sr25519', 'keyring']
   ],
   Databases: [
     ['Couchbase', 'Views, N1QL'],
