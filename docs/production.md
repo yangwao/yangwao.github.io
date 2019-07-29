@@ -1,5 +1,22 @@
 # Production 📝
 
+# Posts 📝
+* [How Accounts on Polkadot and Substrate are created?](https://medium.com/@yangWao/how-accounts-on-polkadot-and-substrate-are-created-9f9d80a57ae1)
+* [Build bot for Totle.com for bounty](https://medium.com/@yangWao/how-to-get-a-bounty-really-easy-932d1b347fb5)
+* [Build Serverless Telegram Bot via StdLib — hack server side!](https://medium.com/@yangWao/build-serverless-telegram-bot-via-stdlib-hack-server-side-754f375e71d1)
+* [Call for Sponsorship for Progressbar](https://medium.com/wearekickback/call-for-sponsorship-of-a-local-ethereum-event-solidity-5-0-91b9e8b2f453)
+
+# Public Projects 🐬
+* [web-based Subkey (Subkey is Substrate tool for key generation)](https://subkey.netlify.com)
+* [skCube (cubesat) server collector + electron client](https://github.com/yangwao/skCube_data_collector)
+* [zilchpass](https://www.npmjs.com/package/zilchpass) - cli 
+storageless password manager
+* [ipfs-hypercube](https://github.com/yangwao/ipfs-hypercube)
+* [awesome-offline](https://github.com/yangwao/awesome-offline)
+* [decent-docker](https://github.com/yangwao/decent-docker)
+* [telegramX-vaporwavetheme](https://github.com/yangwao/telegramX-vaporwavetheme)
+* Rest of my projects can be found at my [github](https://github.com/yangwao?tab=repositories) & [gitlab](https://gitlab.com/users/yangwao/activity)
+
 # Podcasts 🎙
 I learned how to make podcasts, so I start making one for Progressbar, but it's in Slovak 🇸🇰
 * [Prvy pokusný podcast Progressbaru](https://pppp.substack.com/)
@@ -19,22 +36,7 @@ I learned how to make podcasts, so I start making one for Progressbar, but it's 
 * [2018 - web 3.0: Ethereum + IPFS - use case](https://docs.google.com/presentation/d/e/2PACX-1vSsE1EnyewfHrJOEgMAXtHZc_pupT9MIwNxTHdUkbOVOc2C-u9MpkUEiRlxwOS_oMqV5yS6rSE7u0tI/pub?start=false&loop=false&delayms=3000)
 * [2019 - Gig Economy / Temporary work](https://docs.google.com/presentation/d/e/2PACX-1vQ_gB77B4vCSaoQjBTHEcSPTNN9WfbtCYCPDOOzTSiLyrm2HlT2aLeWj4hGJ9CVKW-bkJPgdrV4ZAPD/pub?start=false&loop=false&delayms=3000)
 
-# Posts 📝
-* [Build bot for Totle.com for bounty](https://medium.com/@yangWao/how-to-get-a-bounty-really-easy-932d1b347fb5)
-* [Build Serverless Telegram Bot via StdLib — hack server side!](https://medium.com/@yangWao/build-serverless-telegram-bot-via-stdlib-hack-server-side-754f375e71d1)
-* [Call for Sponsorship for Progressbar](https://medium.com/wearekickback/call-for-sponsorship-of-a-local-ethereum-event-solidity-5-0-91b9e8b2f453)
-
-# Public Projects 🐬
-* [skCube (cubesat) server collector + electron client](https://github.com/yangwao/skCube_data_collector)
-* [zilchpass](https://www.npmjs.com/package/zilchpass) - cli 
-storageless password manager
-* [ipfs-hypercube](https://github.com/yangwao/ipfs-hypercube)
-* [awesome-offline](https://github.com/yangwao/awesome-offline)
-* [decent-docker](https://github.com/yangwao/decent-docker)
-* [telegramX-vaporwavetheme](https://github.com/yangwao/telegramX-vaporwavetheme)
-* Rest of my projects can be found at my [github](https://github.com/yangwao?tab=repositories) & [gitlab](https://gitlab.com/users/yangwao/activity)
-
-# I like conferences & hackathons 👨‍💻
+# I like 🎭conferences & hackathons 👨‍💻
 * 2011 - CCCamp 📍Finowfurt 
 * 2013 - LXJS 📍Lisbon
 * 2014 - LXJS 📍Lisbon
@@ -57,4 +59,4 @@ storageless password manager
 * 2019 - Aracon.one 📍Berlin
 * 2019 - GoerliCon 📍Berlin
 * 2019 - ETHCapeTown 📍CapeTown
-* 2019 - ETHBerlin 📍Berlin
+* 2019 - ETHBerlinZwei 📍Berlin
