@@ -19,6 +19,9 @@ module.exports.past = {
   ],
   Hacks: [
     ['2019',
+      'web-based Subkey', 'https://subkey.netlify.com',
+      'Rust, Vuejs, Typescript, PolkadotJS, Wasm'],
+    ['2019',
       'Telegram bot for Defipulse.com',
       'https://t.me/defipulsie_bot'],
     ['2019',
