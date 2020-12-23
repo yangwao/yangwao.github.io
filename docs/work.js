@@ -89,6 +89,8 @@ module.exports.past = {
       'learned Gentoo Linux']
   ],
   Volunteering: [
+    ['2019', 
+      'web3summit']
     ['2018',
       'Angel @ Chaos Communication Congress'],
     ['2018',

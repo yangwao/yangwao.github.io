@@ -17,5 +17,6 @@ I'm on nurturing my presence on some old-fashioned web2 sites:
 * [Medium](https://medium.com/@yangwao)
 * [GoodReads](goodreads.com/yangwao)
 * [Linkedin](https://linkedin.com/in/mnemcek)
+* [Linktree](https://linktr.ee/yangwao)
 * ~~[Facebook](https://facebook.com/matej.wao.nemcek)~~
 * ~~[Instagram](https://instagram.com/yangwao)~~

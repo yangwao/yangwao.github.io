@@ -3,19 +3,22 @@ module.exports.experience = {
     ['nodejs, typescript, fastify, rust, ink!',
       'ES6, ES7, ES8, StandardJS, nginx'],
   Frontend:
-    ['Vue.js, Bulma.io, Lighthouse, a11y',
+    ['Vue.js, Bulma.io, Buefy, Lighthouse, a11y',
+      'a-frame', 'AR/VR',
       'Electron, PouchDB, BootStrap, jQuery'],
   Infrastructure: [
     ['FaaS', 'stdlib.com', 'serverless'],
+    ['Fleek', 'IPFS deployment', 'IPNS'],
     ['Netlify', 'rewrites, hooks'],
     ['AWS', 'EC2, CloudFront, S3, Lambda'],
     ['GCP', 'Compute, Firebase, Firebase Cloud Functions']
   ],
-  Cryptocurrencies: [
+  Web3: [
     ['Bitcoin', 'bitcoind, rpc'],
-    ['Ethereum', 'web3, Solidity, ERC20, ERC721'],
+    ['Ethereum', 'geth, Solidity, ERC20, ERC721, ERC1155'],
     ['Polkadot', 
-      [ 'substrate', 'keyring', 'EVM', 'WASM', 'ink!', 'cargo-contract',
+      [ 'substrate', 'keyring', 'EVM', 
+      'WASM', 'ink!', 'cargo-contract',
       'Apps', 'KodaDot', 'Edgeware', 'wg-builders']],
     ['BitShares', 'Graphene protocol'],
     ['Commonwealth', 'wg-builders lead']
@@ -46,8 +49,8 @@ module.exports.experience = {
     ['Empathy, Gratitude, Helpfulness, Patience, Open-mindedness'],
     ['Accountability, Creativity']
   ],
-  Writing: [
+  Technical_documentation: [
     'technical writer', 'docusarus',
-    'typedoc'
+    'typedoc', 'vuepress/plugins'
   ]
 }
