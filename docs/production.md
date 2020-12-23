@@ -1,6 +1,19 @@
 # Production 📝
 
-# Posts 📝
+# Posts 📝 - medium
+* [KodaDot: NFT explorer](https://medium.com/kodadot/kodadot-nft-explorer-f2c3a326a856)
+* [Setup your Multi-Signature Account on Edgeware](https://medium.com/commonwealth-labs/setup-your-multi-signature-account-on-edgeware-759df7e62c05)
+* [Write, Test and Build your first smart contract with ink! language](https://medium.com/commonwealth-labs/write-test-and-build-your-first-smart-contract-with-ink-language-f5682cf1ded)
+* [Build Substrate in few minutes with fraction costs](https://medium.com/commonwealth-labs/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066)
+* [Optimal sleep habits-Lessons learned](https://medium.com/@yangWao/optimal-sleep-habits-lessons-learned-8c097e3d3b8c)
+* [How I've isolated mysefl during covid19 and you can live like that too during the next waves](https://medium.com/@yangWao/how-ive-isolated-myself-during-covid19-and-you-can-live-like-that-too-during-the-next-waves-4a08936bdc77)
+* [Easy Substrate Smart Contract Deployment: Flipper](https://medium.com/@yangWao/easy-substrate-smart-contract-deployment-flipper-375b71c479de)
+* [Why and How to lower your resting heart rate](https://medium.com/@yangWao/why-and-how-to-lower-your-resting-heart-rate-f98ce66f034d)
+* [Work from Home-- Habits & Routines](https://medium.com/@yangWao/work-from-home-habits-routines-d84497bfb287)
+* [Earth Observation Meta Vehicle](https://medium.com/starmesh/earth-observation-meta-vehicle-2882b7d3b857)
+* [KodaDot--Return of the Vue.js](https://medium.com/kodadot/kodadot-return-of-the-vue-js-b9ec01268ea2)
+* [Mindfulness on the go](https://medium.com/@yangWao/mindfulness-on-the-go-%EF%B8%8F-c7411ac647a4)
+* [Vue-polkadot.js.org was born](https://medium.com/kodadot/vue-polkadot-js-org-was-born-99d67708eb13)
 * [How Accounts on Polkadot and Substrate are created?](https://medium.com/@yangWao/how-accounts-on-polkadot-and-substrate-are-created-9f9d80a57ae1)
 * [Build bot for Totle.com for bounty](https://medium.com/@yangWao/how-to-get-a-bounty-really-easy-932d1b347fb5)
 * [Build Serverless Telegram Bot via StdLib — hack server side!](https://medium.com/@yangWao/build-serverless-telegram-bot-via-stdlib-hack-server-side-754f375e71d1)

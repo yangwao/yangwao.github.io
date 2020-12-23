@@ -14,8 +14,11 @@ module.exports.experience = {
   Cryptocurrencies: [
     ['Bitcoin', 'bitcoind, rpc'],
     ['Ethereum', 'web3, Solidity, ERC20, ERC721'],
-    ['Polkadot', 'substrate', 'keyring', 'wasm'],
-    ['BitShares', 'Graphene protocol']
+    ['Polkadot', 
+      [ 'substrate', 'keyring', 'EVM', 'WASM', 'ink!', 'cargo-contract',
+      'Apps', 'KodaDot', 'Edgeware', 'wg-builders']],
+    ['BitShares', 'Graphene protocol'],
+    ['Commonwealth', 'wg-builders lead']
   ],
   Cryptography: [
     ['Public-key Architecture', 'Diffie-Hellman', 'Sealed Boxes'],
@@ -36,8 +39,15 @@ module.exports.experience = {
     ['Linux', 'Gentoo, RHEL, Fedora, Ubuntu', 'Grsecurity & PaX']
   ],
   SoftSkills: [
-    ['Organizing meetups', 'Leading projects', 'Volunteering'],
+    ['Organizing wg-builders monthly calls', 
+    'reaching out project founders', 
+    'drive them to on-chain incubator or treasury funding',
+    'Organizing meetups', 'Leading projects', 'Volunteering'],
     ['Empathy, Gratitude, Helpfulness, Patience, Open-mindedness'],
     ['Accountability, Creativity']
+  ],
+  Writing: [
+    'technical writer', 'docusarus',
+    'typedoc'
   ]
 }

@@ -1,5 +1,19 @@
 module.exports.past = {
   Contractor: [
+    ['2020', 'KodaDot: NFT explorer', 
+      'experimental interface to interact with NFTs', 
+      'in AR/VR on top of Polkadot ecosystem'],
+    ['2020', 'Edgewa.re technical documentation', 
+      ' form contracts.edgewa.re', 'adding value to docs.edgewa.re']
+    ['2020', 'Edgewa.re Chain-hire', 
+      'developer 🥑, leading wg-builders, building & nurturing ecosystem',
+      'upgrading developer experience on top of Edgewa.re chain',
+      'tooling, developer zero', 'EVM', 'WASM'],
+    ['2020', 'KodaDot.js.org', 
+      'renamed prev project', 
+      'looking for Product Market Fit as Polkadot Wallet interface'],
+    ['2019', 'Vue-Polkadot', 
+      'rewrite React Apps polkadot.js.org/apps'],
     ['2019', 'Decent.ch',
       'Bounty program at bounties.network', 'r&d chain'],
     ['2018', 'Alax.io',
@@ -18,6 +32,15 @@ module.exports.past = {
       'founder']
   ],
   Hacks: [
+    ['2020', 
+      'KodaDot: Substrapunks, RMRK.app reader & AR/VR explorer', 
+      'ideation', 'PoC', 'raising some small funds for PoC'],
+    ['2020', 
+      'Automated Registrar on Substrate & Polkadot ecosystem',
+      'winning team 🥈']
+    ['2020',
+      'Visualizaing Kusama blocks in AR, Jedi Council', 
+      'leveraging governance module to AR']
     ['2019',
       'web-based Subkey', 'https://subkey.netlify.com',
       'Rust, Vuejs, Typescript, PolkadotJS, Wasm'],
