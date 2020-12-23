@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vuepress/plugin-blog": "^1.0.0",
-    "vuepress": "^1.0.1",
+    "@vuepress/plugin-blog": "1.9.3",
+    "vuepress": "1.7.1",
     "vuepress-plugin-clean-urls": "^1.0.3",
     "vuepress-theme-egoist": "^1.4.2",
     "vuepress-theme-simple": "^0.7.0"
