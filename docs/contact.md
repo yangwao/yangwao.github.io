@@ -15,7 +15,7 @@ I'm on nurturing my presence on some old-fashioned web2 sites:
 * [Telegram](https://t.me/yangwao)
 * [Strava](https://www.strava.com/athletes/46989448)
 * [Medium](https://medium.com/@yangwao)
-* [GoodReads](goodreads.com/yangwao)
+* [GoodReads](https://goodreads.com/yangwao)
 * [Linkedin](https://linkedin.com/in/mnemcek)
 * [Linktree](https://linktr.ee/yangwao)
 * ~~[Facebook](https://facebook.com/matej.wao.nemcek)~~
