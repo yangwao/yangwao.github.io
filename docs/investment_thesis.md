@@ -5,7 +5,9 @@ I can finally give back, drive founders visions through angel checks, being LP, 
 where I can be value add and show you some tricks and hacks, to grow your product.
 
 I've started slowly gaining exposure in next-gen industries, 
-this is just concept where I want to have my positions, it may change overtime.
+this is just concept list, 
+where I want to have my positions in future and it may change overtime.
+In no particular order.
 
 My prefered interests are in 
 - Psyfin - I believe psychadelic finance will have transformative effect on wellbeings, on widespread scope.
@@ -18,5 +20,6 @@ My prefered interests are in
 - Space - We are all gonna make it there, so why not make highway faster? Ping me if you have something on this.
 - Crypto - I'm bit overexposed here, but I guess I can enter another rocketship, if you are building one!
 - Blockchain Gaming - I'm bit bullish, what can various turn-based gmames, MMORPG concepts from 90s can bring on table leveraging nowadays tech with right incentive structure
+- Metaverse - I believe that various super-immersive experiences with shared objects, might be "game-changer" for legacy industries.
 
 Mostly I'm looking back you in crypto-native way, if possible.
