@@ -54,6 +54,9 @@ I'm happy to learn on your investment thesis and ask why.
 ## Knowledge economy
 - Picks and shovels works here (RoamResearch, Obsidian, Meta, Xanadu, Kanopi, &c). Building layer, plugin, interface? I'm keen to chat.
 
+## Brain Computer Interface (BCI)
+- I've been playing with BCI and P300 back in 2011, been positively shocked what it can deliver and especially how it helps out disabled people to access legacy world. BCI recently have picked [up wind](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)[1](https://github.com/Ildaron/ironbci)
+
 ## Infrastructure
 - I've studied few peer reviewed science papers on upcoming black swan events comes down against society and I've learned where we need put emphasis on investments and why.
 
