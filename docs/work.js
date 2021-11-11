@@ -1,4 +1,10 @@
 module.exports.past = {
+  Founder: [
+    '2021', 'MetaPrime Network', 
+      'Experimental NFT-focused infrastructure',
+      'to provide streamline signals for highly illiquid goods with low-velocity appraisal',
+      'web3 toolbox for open metaverse',
+  ],
   Contractor: [
     ['2020', 'KodaDot: NFT explorer', 
       'experimental interface to interact with NFTs', 

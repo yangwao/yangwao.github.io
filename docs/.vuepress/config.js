@@ -8,6 +8,7 @@ module.exports = {
   themeConfig: {
     author: 'Matej Yangwao',
     navbar: {
+      portfolio: '/portfolio',
       investment_thesis: '/investment_thesis',
       experience: '/experience',
       work: '/work',

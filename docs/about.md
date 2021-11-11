@@ -8,7 +8,7 @@ I keep my mind calm, when there is known scenario ahead including [antifragility
 I feel myself comfortable on position of [Developer Advocate](https://www.quora.com/What-exactly-is-the-job-of-a-developer-advocate), 
 Frontend/Backend engineer and UX advocate.
 
-I'm person who is constantly seeking system in chaos.
+**I'm person who is constantly seeking system in chaos.**
 
 Exploring possibilities, looking changes in (knowledge) graph(s)
 
