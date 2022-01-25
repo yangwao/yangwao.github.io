@@ -1,0 +1,1 @@
+const e={key:"v-53f7d596",path:"/experience.html",title:"Experience \u{1F468}\u{1F3FC}\u200D\u{1F52C}",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"experience.md"};export{e as data};

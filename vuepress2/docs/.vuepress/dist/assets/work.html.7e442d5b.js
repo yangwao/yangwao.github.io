@@ -1,0 +1,1 @@
+const t={key:"v-3cbc918f",path:"/work.html",title:"Work - Captain.log \u{1F477}\u200D\u2642\uFE0F",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"work.md"};export{t as data};

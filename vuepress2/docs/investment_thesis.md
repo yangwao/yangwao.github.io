@@ -1,5 +1,7 @@
 # Investment Thesis 
 
+[[toc]]
+
 ## Reasoning
 I've realized, that after while, being in various ecosystems, 
 **I can finally give back**, drive founders visions through **angel checks, being LP, give helpful insights &c,**

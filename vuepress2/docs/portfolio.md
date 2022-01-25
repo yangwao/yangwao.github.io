@@ -6,6 +6,8 @@ Play long-term games, with long-term players.
 
 Whenever I feel, I'll expand why I've made these bets.
 
+[[toc]]
+
 ## Angel 
 - [SubSquid](https://www.subsquid.io/)
 - [Virgils](http://virgils.io/)
