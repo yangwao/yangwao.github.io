@@ -55,10 +55,14 @@ I'm happy to learn on your investment thesis and ask why.
 - Picks and shovels works here (RoamResearch, Obsidian, Meta, Xanadu, Kanopi, &c). Building layer, plugin, interface? I'm keen to chat.
 
 ## Brain Computer Interface (BCI)
-- I've been playing with BCI and P300 back in 2011, been positively shocked what it can deliver and especially how it helps out disabled people to access legacy world. BCI recently have picked [up wind](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)[1](https://github.com/Ildaron/ironbci)
+- I've been playing with BCI and P300 back in 2011, been positively shocked what it can deliver and especially how it helps out disabled people to access legacy world. BCI recently have picked [up wind](https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting)[1](https://github.com/Ildaron/ironbci). With recent BCI upgrades human beings could gain significant edge over their wellbeing, insights to their insideOps, better understanding why they are doing what they are doing, raise bar for self-awarness and make whole feedback loop much stronger and exact. For example check retail helmet from [Kernel Flow, costs around $100k](https://www.kernel.com/own-flow), which becomes more affordable in few years as technologic deflation kicks in. On other side, one can have way better understanding of real enviroment around themselves plus ability to control various motoric/robotic devices around without using their muscular systems at all. Try imagine further possibilities.
 
 ## Infrastructure
 - I've studied few peer reviewed science papers on upcoming black swan events comes down against society and I've learned where we need put emphasis on investments and why.
+
+## eVTOLs
+
+- I believe that electric VTOLs would have significant impact how transportations works inside cities, outskirt and on sub-urban travels. It might be way better and affordable option for transportation as autonomous cars would be fairly great, but their limitation is need to follow particular pathway on the road which are quite constrainted. Concept opens ability for on-demand aviation transportation system. [Uber Elevate is fair example of traction](https://www.uber.com/us/en/elevate/). [eVTOLs](https://en.wikipedia.org/wiki/EVTOL) doesn't inheritently stay only for passinb by human corpses, strong case could be for eVTOL UAV delivery service. Probably we are just on the early phase of this. Imagine instead of traveling between city center and airport, you can cut on average 50 minutes to 10 minutes.
 
 # Funding type
 Mostly, I'm looking to back you in crypto-native way, if possible.
