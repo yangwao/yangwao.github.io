@@ -2,7 +2,14 @@
   "devDependencies": {
     "vuepress": "^2.0.0-beta.35"
   },
-  "dependencies": {
-    "vuepress-theme-simple": "^1.2.2"
+  "dependencies": {},
+  "name": "vuepress2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@yangwao",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   }
 }
