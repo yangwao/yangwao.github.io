@@ -1,4 +1,4 @@
-# Investment Thesis 
+# Investment Thesis 🧪
 
 [[toc]]
 
@@ -66,6 +66,6 @@ I'm happy to learn on your investment thesis and ask why.
 
 - I believe that electric VTOLs would have significant impact how transportations works inside cities, outskirt and on sub-urban travels. It might be way better and affordable option for transportation as autonomous cars would be fairly great, but their limitation is need to follow particular pathway on the road which are quite constrainted. Concept opens ability for on-demand aviation transportation system. [Uber Elevate is fair example of traction](https://www.uber.com/us/en/elevate/). [eVTOLs](https://en.wikipedia.org/wiki/EVTOL) doesn't inheritently stay only for passinb by human corpses, strong case could be for eVTOL UAV delivery service. Probably we are just on the early phase of this. Imagine instead of traveling between city center and airport, you can cut on average 50 minutes to 10 minutes.
 
-# Funding type
+## Funding type
 Mostly, I'm looking to back you in crypto-native way, if possible.
 Otherway around, AngelList should be supporting USDC.

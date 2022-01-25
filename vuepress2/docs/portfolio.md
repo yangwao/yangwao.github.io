@@ -1,4 +1,4 @@
-# Portfolio Bets
+# Portfolio Bets 🎲
 
 In life, you just need few small bets.
 
@@ -52,7 +52,6 @@ Whenever I feel, I'll expand why I've made these bets.
 
 ## Stealth
 - Always is something in the stealth and coming 👀
-
 - If you are in my close circles, you can DM me to ask for more.
 
 ## Want to be here?

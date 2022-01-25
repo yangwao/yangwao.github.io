@@ -1,6 +1,6 @@
-# 📝 Production 
+# Production  📝
 
-# 📝 Posts  - [Medium for now](https://medium.com/@yangwao)
+## Posts 📝 - [Medium for now](https://yangwao.medium.com/)
 
 ### Commonwealth && Edgeware
 * [Setup your Multi-Signature Account on Edgeware](https://medium.com/commonwealth-labs/setup-your-multi-signature-account-on-edgeware-759df7e62c05)
@@ -27,7 +27,7 @@
 * [Build Serverless Telegram Bot via StdLib — hack server side!](https://medium.com/@yangWao/build-serverless-telegram-bot-via-stdlib-hack-server-side-754f375e71d1)
 * [Call for Sponsorship for Progressbar](https://medium.com/wearekickback/call-for-sponsorship-of-a-local-ethereum-event-solidity-5-0-91b9e8b2f453)
 
-# 🐬 Public Projects
+## Public Projects 🐬 
 * [KodaDot - Polkadot wallet for Substrate compatible chains](https://kodadot.js.org) 
 * [web-based Subkey (Subkey is Substrate tool for key generation)](https://subkey.netlify.com)
 * [skCube (cubesat) server collector + electron client](https://github.com/yangwao/skCube_data_collector)
@@ -39,11 +39,11 @@ storageless password manager
 * [telegramX-vaporwavetheme](https://github.com/yangwao/telegramX-vaporwavetheme)
 * Rest of my projects can be found at my [github](https://github.com/yangwao?tab=repositories) & [gitlab](https://gitlab.com/users/yangwao/activity)
 
-# 🎙 Podcasts 
+##  Podcasts 🎙
 I learned how to make podcasts, so I start making one for Progressbar, but it's in Slovak 🇸🇰
 * [Prvy pokusný podcast Progressbaru](https://pppp.substack.com/)
 
-# 🗣 Talks 
+##  Talks 🗣
 * [2013 - TedX talk about 3D pritining 📍Košice]()
 * [2013 - Radio Tlis - Progressbar Signal]()
 * [2014 - Security Session 📍 Brno]()
@@ -58,11 +58,11 @@ I learned how to make podcasts, so I start making one for Progressbar, but it's 
 * [2018 - web 3.0: Ethereum + IPFS - use case](https://docs.google.com/presentation/d/e/2PACX-1vSsE1EnyewfHrJOEgMAXtHZc_pupT9MIwNxTHdUkbOVOc2C-u9MpkUEiRlxwOS_oMqV5yS6rSE7u0tI/pub?start=false&loop=false&delayms=3000)
 * [2019 - Gig Economy / Temporary work](https://docs.google.com/presentation/d/e/2PACX-1vQ_gB77B4vCSaoQjBTHEcSPTNN9WfbtCYCPDOOzTSiLyrm2HlT2aLeWj4hGJ9CVKW-bkJPgdrV4ZAPD/pub?start=false&loop=false&delayms=3000)
 
-# Community Calls
+## Community Calls
 
 * [2020 - wg-builders #2](https://www.youtube.com/watch?v=aO9h1K-R8HA)
   
-# I enjoy 🎭 conferences & hackathons 👨‍💻
+## I enjoy 🎭 conferences & hackathons 👨‍💻
 * 2011 - CCCamp 📍Finowfurt 
 * 2013 - LXJS 📍Lisbon
 * 2014 - LXJS 📍Lisbon

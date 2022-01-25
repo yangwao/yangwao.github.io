@@ -59,28 +59,37 @@ module.exports.experience = {
 }
 ```
 
-# [Community Building]() 
+## Community Building
 * [NodeSchool Bratislava](https://www.meetup.com/nodejsbratislava) - 🪦 (2016-2018)
 * [Open Blockchain Bratislava](https://meetup.com/openblockchainbratislava/) - (2017-online)
 * [Progressbar Cowork & Hackerspace](https://cowork.progressbar.sk) - 🪦 (2010-2020)
 
-# Outdoor
+## Outdoor
 ```js
 module.exports.hobby = {
   Watersports: [
-    'windsurf 🏄‍♂️', 'kitesurfing','standuppadle'],
+    'windsurf 🏄‍♂️', 'kitesurfing','standuppadle'
+  ],
   Onland: [
-    'bike 🚵‍♂️','hike 🏔', '🧗‍♂️']
+    'bike 🚵‍♂️','hike 🏔', '🧗‍♂️'
+  ],
+  Winter: [
+    'snowshoes'
+  ]
 }
 ```
 
-# Interested in new things 🔭
-* Web bleeding edge
+## Interested in new things 🔭
+### Web bleeding edge
   * ES2019
   * GraphQL
   * WASM runtime in browsers
-  * AR/VR
-* Polkadot 
+  * AR/XR/VR
+  * Spatial Worlds
+  * Immersive Experience
+  * Augumented Reality
+
+### Polkadot 
   * Substrate
   * Layer[0,1,2,3]
   * Interoperability
@@ -88,16 +97,21 @@ module.exports.hobby = {
   * Nested Relay chains
   * Sidechains
   * NFTs 2.0
-* Distributed technologies & protocols (ScuttleButt, Hyperlog, Dat, IPFS)
 
-* Languages
+### Distributed technologies & protocols 
+- ScuttleButt
+- Hyperlog
+- Dat 
+- IPFS
+
+### Languages
   * Rust
   * GoLang
-* Self-development
+### Self-development
   * More mindfulness 🧘‍♂️
   * Biohacking - longevity
   * Aging is Disease
-* Futuristics
+### Futuristics
   * Cloud Cities
   * SynBio
   * Neuralink, Neural*
