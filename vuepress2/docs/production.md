@@ -1,6 +1,23 @@
 # Production  📝
+## My Writings 📝 - [Medium for now](https://yangwao.medium.com/)
+### KodaDot
+#### Bi-weekly digests on progress of KodaDot
+- [meta_hours_4](https://github.com/kodadot/nft-gallery/discussions/2007)
+- [meta_hours_3](https://github.com/kodadot/nft-gallery/discussions/1710)
+- [meta_hours_2](https://github.com/kodadot/nft-gallery/discussions/1699)
+- [meta_hours_1](https://github.com/kodadot/nft-gallery/discussions/1424)
 
-## Posts 📝 - [Medium for now](https://yangwao.medium.com/)
+#### Writings
+- [KodaDot 2.0 -- Beta](https://medium.com/kodadot/kodadot-2-0-beta-d136f6ff139)
+- [Sleeping giant drop and updats on KodaDot](https://medium.com/kodadot/sleeping-giant-drop-and-updates-on-kodadot-9b58d32974fd)
+- [First Dotsama meetup in Lisbon and how the KodaDot team helped to make it real](https://medium.com/kodadot/first-dotsama-meetup-in-lisbon-and-how-the-kodadot-team-helped-to-make-it-real-10b4ca63d0b5)
+- [Mass Airdrop and what we've learned -- sub0-online-2021](https://medium.com/kodadot/mass-airdrop-and-what-weve-learned-d063efb7c088)
+- [Introducing Series Insights](https://medium.com/kodadot/introducing-series-insights-dde52dbadf5d)
+- [JPEG summer is over. It's over, right?](https://medium.com/kodadot/jpeg-summer-is-over-its-over-right-e893ca2eeaa9)
+- [NFTs on Kusama can be Explored with KodaDot and Subquery](https://medium.com/kodadot/nfts-on-kusama-can-be-explored-with-kodadot-and-subquery-c730eba8628b)
+- [How to Embed your NFT on Kusama through KodaDot](https://medium.com/kodadot/how-to-embed-your-nft-on-kusama-through-kodadot-ee52c2384b0d)
+- [Traverse to the prime show](https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5)
+
 
 ### Commonwealth && Edgeware
 * [Setup your Multi-Signature Account on Edgeware](https://medium.com/commonwealth-labs/setup-your-multi-signature-account-on-edgeware-759df7e62c05)
@@ -68,25 +85,25 @@ I learned how to make podcasts, so I start making one for Progressbar, but it's 
 * 2014 - LXJS 📍Lisbon
 * 2014 - Fab10📍Barcelona
 * 2015 - JSConf 📍Budapest
-* 2015 - CCCamp 📍Zehdenick
-* 2015 - Chaos Communication Congress 32c3 📍Hamburg
+* 2015 - CCCamp 📍Zehdenick 
+* 2015 - Chaos Communication Congress 32c3 📍Hamburg (workshop)
 * 2016 - JSUnconf.eu 📍Hamburg
 * 2016 - JSConf 📍Budapest / CSSconf
-* 2016 - Copernicus hackathon 📍Vienna
-* 2016 - Chaos Communication Congress 33c3 📍Hamburg
+* 2016 - Copernicus hackathon 📍Vienna (hacking)
+* 2016 - Chaos Communication Congress 33c3 📍Hamburg (workshop)
 * 2017 - Vueconf 📍Wrocław
 * 2017 - Google for Developers 📍Krakow
 * 2017 - 9984.io 📍Berlin
-* 2017 - Chaos Communication Congress 34c3 📍Leipzig
+* 2017 - Chaos Communication Congress 34c3 📍Leipzig (speaker)
 * 2018 - JSUnconf.eu 📍Hamburg
 * 2018 - Women TechMakers 📍Vienna
-* 2018 - Devcon4 📍Prague
+* 2018 - Devcon4 📍Prague 
 * 2018 - Chaos Communication Congress 35c3 📍Leipzig (speaker)
 * 2019 - Aracon.one 📍Berlin
 * 2019 - GoerliCon 📍Berlin
-* 2019 - ETHCapeTown 📍CapeTown
+* 2019 - ETHCapeTown 📍CapeTown (winning team)
 * 2019 - DOTcon 📍Berlin
-* 2019 - ETHBerlinZwei 📍Berlin
+* 2019 - ETHBerlinZwei 📍Berlin (hacking team)
 * 2019 - MetaCartel demo day 📍Berlin
 * 2019 - Dappcon 📍Berlin
 * 2019 - Web3Summit 📍Berlin 

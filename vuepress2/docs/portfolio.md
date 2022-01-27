@@ -1,10 +1,10 @@
 # Portfolio Bets 🎲
 
-In life, you just need few small bets.
-
-Play long-term games, with long-term players.
-
-Whenever I feel, I'll expand why I've made these bets.
+> In life, you just need few small bets.
+>
+> Play long-term games, with long-term players.
+>
+> Whenever I feel, I'll expand why I've made these bets.
 
 [[toc]]
 
@@ -43,12 +43,12 @@ Whenever I feel, I'll expand why I've made these bets.
 ### NFT infrastructure & Spatial Worlds 
 - [MetaPrime](https://metaprime.network/)
 
+## Reforestation
+- [RMTerraO](https://twitter.com/rmterraO)
+
 ## Exit
 - [Hackerspace Progressbar in Bratislava](https://progressbar.sk),[1](https://sk.wikipedia.org/wiki/Progressbar)
 - [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
-
-## Reforestation
-- [RMTerraO](https://twitter.com/rmterraO)
 
 ## Stealth
 - Always is something in the stealth and coming 👀

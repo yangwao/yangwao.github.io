@@ -1,5 +1,9 @@
 # Long time no see, my life reflection 🪞
 
+## 🛕 Welcome in my temple of harmony
+
+![videogame-rain](/images/videogame-rain.gif)
+
 ## My few small bets 🎲
 
 > In life, you just need few small bets.
@@ -20,7 +24,8 @@
 > 
 > you can daily learn new thing or two. 
 > 
-> Sometimes you can get paid.  
+> Sometimes you can get highly rewarded.  
+
 - [Experience](experience.md)
 - [Captain.log - Work](work.md)
 - [Production](production.md)
@@ -28,5 +33,5 @@
 ## Matej ~ insignificant one. 🤖
 
 > This is supposed to be summary of my (digital) wellbeing 💆‍♂️.
-- [Contact](contact.md)
 - [About](about.md)
+- [Contact](contact.md)
