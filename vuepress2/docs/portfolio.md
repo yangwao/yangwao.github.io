@@ -16,8 +16,8 @@
 - [Talisman](https://talisman.community/)
 
 ## LP 
-- [Vine Ventures](https://vine.vc/)
 - [Sigil](https://www.sigilfund.com/)
+- [Vine Ventures](https://vine.vc/)
 - [ZeePrime](https://zeeprime.capital/portfolio)
 
 ## Skin in the game
