@@ -13,6 +13,7 @@
 - [Virgils](http://virgils.io/)
 - [Aleph](https://aleph.im/)
 - [CryptoSat](https://cryptosat.io/)
+- [Talisman](https://talisman.community/)
 
 ## LP 
 - [Vine Ventures](https://vine.vc/)
@@ -35,7 +36,6 @@
 - KlimaDAO
 - Aave
 - OlympusDAO (3,3)
-- [Talisman](https://talisman.community/)
 
 ### NFT Marketplace
 - [KodaDot](https://twitter.com/kodadot)
