@@ -107,13 +107,18 @@ module.exports.hobby = {
 ### Languages
   * Rust
   * GoLang
+
 ### Self-development
   * More mindfulness 🧘‍♂️
   * Biohacking - longevity
   * Aging is Disease
+
 ### Futuristics
-  * Cloud Cities
+  - Super Solar Flares
+  - Brain computer interface
+  - Psychadelics impacts wellbeing
+  * Cloud Cities, Network Unions
   * SynBio
   * Neuralink, Neural*
   * AGI
-* 🥗
+  * 🥗
