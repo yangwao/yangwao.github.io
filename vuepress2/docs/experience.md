@@ -117,8 +117,8 @@ module.exports.hobby = {
   - Super Solar Flares
   - Brain computer interface
   - Psychadelics impacts wellbeing
-  * Cloud Cities, Network Unions
-  * SynBio
-  * Neuralink, Neural*
-  * AGI
-  * 🥗
+  - Cloud Cities, Network Unions
+  - SynBio
+  - Neuralink, Neural-
+  - AGI
+  - 🥗

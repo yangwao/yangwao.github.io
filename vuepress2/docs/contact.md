@@ -8,9 +8,10 @@
 
 ## What is my information diet
 ### [GoodReads](https://goodreads.com/yangwao)
-- I've read [11 of 42 books in 2022](https://www.goodreads.com/user_challenges/31151843)
-- I've read [104 of 23 books in 2021](https://www.goodreads.com/user_challenges/30315311)
-- I've read [61 of 10 books in 2020](https://www.goodreads.com/user_challenges/23295912)
+#### I've tried to read and understand
+- [11 of 42 books in 2022](https://www.goodreads.com/user_challenges/31151843)
+- [104 of 23 books in 2021](https://www.goodreads.com/user_challenges/30315311)
+- [61 of 10 books in 2020](https://www.goodreads.com/user_challenges/23295912)
 
 ## What is my output
 ### [Github](https://github.com/yangwao)
