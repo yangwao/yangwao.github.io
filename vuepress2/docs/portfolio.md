@@ -9,14 +9,16 @@
 [[toc]]
 
 ## Angel 
-- [SubSquid](https://www.subsquid.io/)
-- [Virgils](http://virgils.io/)
 - [Aleph](https://aleph.im/)
 - [CryptoSat](https://cryptosat.io/)
+- [SubSquid](https://www.subsquid.io/)
+- [Talisman](https://talisman.community/)
+- [Virgils](http://virgils.io/)
+- [Your project]()
 
 ## LP 
-- [Vine Ventures](https://vine.vc/)
 - [Sigil](https://www.sigilfund.com/)
+- [Vine Ventures](https://vine.vc/)
 - [ZeePrime](https://zeeprime.capital/portfolio)
 
 ## Skin in the game
@@ -35,7 +37,6 @@
 - KlimaDAO
 - Aave
 - OlympusDAO (3,3)
-- [Talisman](https://talisman.community/)
 
 ### NFT Marketplace
 - [KodaDot](https://twitter.com/kodadot)
