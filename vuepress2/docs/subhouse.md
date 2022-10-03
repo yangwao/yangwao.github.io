@@ -1,8 +1,12 @@
-# SubHouse 🏡
+# SubHouse 🏡 -> SubWork
 
-- I've got that idea that would be amazing to have hackerhouses. Best, have nice audience inside of them.
+- I've got that idea that would be amazing to have hackerhouses. Best, have nice audience inside of them around niche.
 
 - Nurturing [Substrate](https://substrate.io/) influential founders at one place funded from [Polkadot](https://polkadot.network/)/[Kusama](https://kusama.network/) Treasury
+
+- Meanwhile since January, we've found place to bootstrap this in Bled, Slovenia, in April. It's at shopping mall, with 196sqm at sunny place with view on castle, just minute from lake. Opening is planned on fall 2022.
+- Things inside are evolving and preparing. We want you to have cozy stay at Julian Alps, while you will work on your unicorn idea.
+- We've already hosted over high signal 20+ folks during summer 2022.
 
 ### Inspiration
 Inspired by [HackBase coming from CCC / Hackerspaces movement](https://wiki.hackerspaces.org/Hackbase) & [CreatorCabins](https://twitter.com/creatorcabins) 
@@ -32,7 +36,9 @@ Residency can be shared among NFT artists who are bringing right tribe / crypto 
 - Dubai, United Arab Emirates
   - your team
 
-### Find out more about Subhouse
+### Find out more about SubWork
+- [twitter.com/SubWorkBled](https://twitter.com/subworkBled)
+- [subwork.xyz](https://subwork.xyz)
 - [github.com/yangwao/Subhouse](https://github.com/yangwao/subhouse)
 
 ### Reach out

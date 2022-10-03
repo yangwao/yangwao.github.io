@@ -8,8 +8,8 @@ module.exports = {
         children: ['/investment_thesis', '/portfolio.md', '/subhouse.md'] 
       },
       {
-        text: 'Learnings',
-        children: ['Experience.md', 'work.md', 'production.md']
+        text: 'Experienced',
+        children: ['Experience.md', 'work.md', 'production.md', 'writings.md']
       },
       {
         text: 'About',

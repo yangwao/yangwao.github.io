@@ -4,17 +4,16 @@ In life, you just need few small bets.
 
 Play long-term games, with long-term players.
 
-Whenever I feel, I'll expand why I've made these bets.
-
 ## Angel 
-- [SubSquid](https://www.subsquid.io/)
-- [Virgils](http://virgils.io/)
 - [Aleph](https://aleph.im/)
 - [CryptoSat](https://cryptosat.io/)
+- [SubSquid](https://www.subsquid.io/)
+- [Virgils](http://virgils.io/)
 
 ## LP 
 - [Vine Ventures](https://vine.vc/)
 - [Sigil](https://www.sigilfund.com/)
+- [StealthCap](https://www.stealthcap.io/)
 - [ZeePrime](https://zeeprime.capital/portfolio)
 
 ## Skin in the game
@@ -43,13 +42,13 @@ Whenever I feel, I'll expand why I've made these bets.
 
 ## Exit
 - [Hackerspace Progressbar in Bratislava](https://progressbar.sk),[1](https://sk.wikipedia.org/wiki/Progressbar)
-- [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+- [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)****
 
 ## Reforestation
 - [RMTerraO](https://twitter.com/rmterraO)
 
 ## Stealth
-- Always is something in the stealth and coming 👀
+- Something is always in the stealth and coming 👀
 
 - If you are in my close circles, you can DM me to ask for more.
 
