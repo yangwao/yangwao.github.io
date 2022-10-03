@@ -4,8 +4,6 @@
 >
 > Play long-term games, with long-term players.
 >
-> Whenever I feel, I'll expand why I've made these bets.
-
 [[toc]]
 
 ## Angel 
@@ -17,9 +15,10 @@
 - [Your project]()
 
 ## LP 
-- [Sigil](https://www.sigilfund.com/)
 - [Vine Ventures](https://vine.vc/)
-- [ZeePrime](https://zeeprime.capital/portfolio)
+- [Sigil Fund](https://www.sigilfund.com/)
+- [Stealth Capital](https://www.stealthcap.io/)
+- [ZeePrime Capital](https://zeeprime.capital/portfolio)
 
 ## Skin in the game
 ### Layer 0
