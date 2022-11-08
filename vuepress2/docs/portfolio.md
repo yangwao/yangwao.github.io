@@ -28,9 +28,7 @@
 
 ### Layer 1
 - [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
-- [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 - [Arweave](https://www.arweave.org/)
-- [Terra](https://www.terra.money/)
 
 ### Dapps
 - KlimaDAO
@@ -49,6 +47,8 @@
 ## Exit
 - [Hackerspace Progressbar in Bratislava](https://progressbar.sk),[1](https://sk.wikipedia.org/wiki/Progressbar)
 - [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+- [Terra](https://www.terra.money/)
+- [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 
 ## Stealth
 - Always is something in the stealth and coming 👀
