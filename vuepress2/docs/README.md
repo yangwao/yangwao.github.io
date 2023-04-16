@@ -14,9 +14,8 @@
 
 - [Investment Thesis](investment_thesis.md)
 - [Portfolio](portfolio.md)
-- [KodaDot](https://kodadot.xyz)
-- [MetaPrime](https://metaprime.network)
-- [SubHouse](subhouse.md)
+- [KodaDot](https://kodadot.xyz) & [MetaPrime Network](https://metaprime.network)
+- [SubWork](https://SubWork.xyz), [[1]](subhouse.md)
 
 ## Learnings 🧠
 
@@ -30,7 +29,7 @@
 - [Captain.log - Work](work.md)
 - [Production](production.md)
 
-## Matej ~ insignificant one. 🤖
+## Matej 🫀
 
 > This is supposed to be summary of my (digital) wellbeing 💆‍♂️.
 - [About](about.md)
