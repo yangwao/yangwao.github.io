@@ -4,23 +4,25 @@
 >
 > Play long-term games, with long-term players.
 >
-[[toc]]
+<!-- [[toc]] -->
 
 ## Angel 
 - [Aleph](https://aleph.im/)
 - [CryptoSat](https://cryptosat.io/)
 - [SubSquid](https://www.subsquid.io/)
 - [Talisman](https://talisman.community/)
-- [Your project]()
+- [Azero Domains](https://azero.id/)
+- [Tanssi Network](https://www.tanssi.network/)
 
 ## LP 
 - [Vine Ventures](https://vine.vc/)
 - [Sigil Fund](https://www.sigilfund.com/)
 - [ZeePrime Capital](https://zeeprime.capital/portfolio)
 - [Bitfwd Capital](https://www.bitfwd.com/)
+- [Your Fund, right?]()
 
 ## GP
-- [Hit me up, if you want to be in my 2024_Fund as LP](https://t.me/yangwao)
+- [Do you want to be in my 2024_Fund as LP? Hit me up.](https://t.me/yangwao)
 
 ## Skin in the game
 ### Layer 0
@@ -45,7 +47,7 @@
 ### Physical Cowork & talent incubator
 - [SubWork](https://subwork.xyz)
 
-## Reforestation
+### Reforestation
 - [RMTerraO](https://twitter.com/rmterraO)
 
 ## Exit

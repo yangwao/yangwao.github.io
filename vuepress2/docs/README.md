@@ -14,8 +14,14 @@
 
 - [Investment Thesis](investment_thesis.md)
 - [Portfolio](portfolio.md)
-- [KodaDot](https://kodadot.xyz) & [MetaPrime Network](https://metaprime.network)
+
+## In my control 🕹️
+
+> I love to nurture, where I can have direct impact
+
+- [KodaDot](https://kodadot.xyz) 
 - [SubWork](https://SubWork.xyz), [[1]](subhouse.md)
+- [MetaPrime Network](https://metaprime.network)
 
 ## Learnings 🧠
 
